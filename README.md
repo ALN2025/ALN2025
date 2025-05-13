@@ -1,6 +1,6 @@
 👋 Olá, sou Anderson  👋
 
-
+[https://i.gifer.com/7sHj.gif](https://i.gifer.com/3rNn.gif)
 
 
 Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e jogos, com foco no desenvolvimento e estudo de jogos e programação. Estou sempre em busca de novos desafios e oportunidades para inovar e criar soluções tecnológicas.
