@@ -1,8 +1,5 @@
 👋 Olá, sou Anderson  👋
 
-[<img src="https://media.giphy.com/media/3o7aCQ8bXe1XZzK1Hi/giphy.gif" width="300"/>
-](https://i.gifer.com/7sHj.gif)
-
 
 
 
