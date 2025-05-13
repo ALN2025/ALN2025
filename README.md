@@ -25,6 +25,5 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ---
 
 ## ⏱️ WakaTime Stats
-
-[![wakatime](https://wakatime.com/badge/user/ALN2025.svg)](https://wakatime.com/@ALN2025)
+[![wakatime](https://wakatime.com/badge/user/waka_cf267ea6-b0b1-4c8d-a32e-f1351b2da61e.svg)](https://wakatime.com/@ALN2025)
 
