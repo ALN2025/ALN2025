@@ -25,29 +25,6 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ---
 
 ## ⏱️ WakaTime Stats
-Apply
-WakaTime Stats
-Java: 419 hrs 27 mins
-HTML: 42 hrs 4 mins
-PHP: 33 hrs 55 mins
-CSS: 22 hrs 38 mins
-JavaScript: 8 hrs 20 mins
-XML: 5 hrs 21 mins
-Markdown: 4 hrs 36 mins
-INI: 3 hrs
-Java Properties: 1 hr 49 mins
-Git: 1 hr 22 mins
-GitIgnore file: 1 hr 21 mins
-Bash: 1 hr 21 mins
-Other: 1 hr 18 mins
-Text: 1 hr 15 mins
-Batchfile: 24 mins
-IDEA_MODULE: 13 mins
-JSON: 9 mins
-CLASS: 7 mins
-Gradle: 4 mins
-DTD: 3 mins
-C#: 1 min
-Groovy: 1 min
-Apache Config: 1 min
+
+[![wakatime](https://wakatime.com/badge/user/ALN2025.svg)](https://wakatime.com/@ALN2025)
 
