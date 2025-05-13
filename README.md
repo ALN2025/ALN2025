@@ -1,3 +1,18 @@
+👋 Olá, sou Anderson  👋
+
+<img src="https://media.giphy.com/media/3o7aCQ8bXe1XZzK1Hi/giphy.gif" width="300"/>
+
+
+
+
+
+Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e jogos, com foco no desenvolvimento e estudo de jogos e programação. Estou sempre em busca de novos desafios e oportunidades para inovar e criar soluções tecnológicas.
+
+
+
+
+
+
 ## 🚀 Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
