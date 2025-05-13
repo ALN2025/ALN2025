@@ -1,13 +1,10 @@
-👋 Olá, sou Anderson  👋
+# 👋 Olá, sou ALN2025! 👋
 
+<img src="https://media.giphy.com/media/3o7aCQ8bXe1XZzK1Hi/giphy.gif" width="300"/>
 
+Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, com foco em desenvolvimento e automação.
 
-Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e jogos, com foco no desenvolvimento e estudo de jogos e programação. Estou sempre em busca de novos desafios e oportunidades para inovar e criar soluções tecnológicas.
-
-
-
-
-
+---
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -17,7 +14,17 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e jogos, com foco 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 ## 📫 Contato
+
 - [LinkedIn](https://www.linkedin.com/in/anderson-nascimento-22305931b)
 - [Facebook](https://www.facebook.com/anderson.nascimento.979538)
 - Email: developepsrs@gmail.com
+
+---
+
+## ⏱️ WakaTime Stats
+
+<!-- Se você usa WakaTime, pode colocar seu badge aqui -->
+<!-- [![wakatime](https://wakatime.com/badge/user/SEU_ID.svg)](https://wakatime.com/@SEU_ID) -->
