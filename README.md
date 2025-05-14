@@ -34,3 +34,15 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 🥇 x2 &nbsp; ❄️ x4 &nbsp; 🤠 x1 &nbsp; 🌀 x1  
 💖 x1 &nbsp; 🚀 x1 &nbsp; 🌙 x1 &nbsp; 😎 x3
+
+## 🏆 Achievements
+
+<img src="URL_DA_IMAGEM_1" width="40"/>
+<img src="URL_DA_IMAGEM_2" width="40"/>
+<img src="URL_DA_IMAGEM_3" width="40"/>
+<!-- ...repita para cada conquista... -->
+
+## 🏆 Achievements
+
+<img src="URL_DA_IMAGEM_1" width="40"/> <img src="URL_DA_IMAGEM_2" width="40"/>  
+🥇 x2 &nbsp; ❄️ x4 &nbsp; 🤠 x1 &nbsp; 🌀 x1
