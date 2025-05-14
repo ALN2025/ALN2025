@@ -35,7 +35,10 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 > Veja quanto tempo eu dedico a cada linguagem e projeto em tempo real!
 --- 
 
-🚀 Projetos em Desenvolvimento
 ---
 📂 Projetos e Contribuições
 Acompanhe meus projetos e contribuições em desenvolvimento diretamente no meu GitHub.
+
+🚀 Projetos em Desenvolvimento
+---
+
