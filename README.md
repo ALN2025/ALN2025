@@ -1,6 +1,6 @@
 # 👋 Olá, sou ALN2025! 👋
 
-https://wakatime.com/badge/user/ccc1f783-eab5-42cd-8bfe-06af7816de0c.svg
+https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif
 Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, com foco em desenvolvimento e automação.
 
 ---
