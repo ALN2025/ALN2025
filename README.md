@@ -38,4 +38,10 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 🚀 Projetos em Desenvolvimento
 ---
 📚 Sistema de vendas completo (camelodromo)
--
+🌍Loja Virtual(vendas )
+
+🚀 Projetos Concluidos
+---
+📚 
+🌍 Site TR PEGASUS
+trpegasus.com.br
