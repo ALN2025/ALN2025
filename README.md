@@ -1,6 +1,10 @@
 # 👋 Olá, sou ALN2025! 👋
 
-https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif
+# 👋 Olá, sou ALN2025!
+
+<img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="300" alt="GIF animado" />
+
+Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, com foco em desenvolvimento e automação.
 Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, com foco em desenvolvimento e automação.
 
 ---
