@@ -42,7 +42,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 🌍Loja Virtual(vendas )
 
-
+---
 🚀 Projetos Concluidos
 ---
 🌍 [Site AOCUBO](https://www.aocubo.dev.br)
