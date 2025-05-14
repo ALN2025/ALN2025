@@ -33,11 +33,9 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 > Estatísticas de tempo de programação geradas automaticamente pelo [WakaTime](https://wakatime.com/@ALN2025).  
 > Veja quanto tempo eu dedico a cada linguagem e projeto em tempo real!
+--- 
 
-- 🥇 Medalha de Ouro: 2x por projetos concluídos
-- ❄️ Desafios de Inverno: 4x por codar em dias frios
-- 🤠 Desbravador: 1x por explorar novas tecnologias
-- 🚀 Lançamento de Projeto: 1x por publicar um projeto open source
-- 😎 Código com estilo: 3x por manter código limpo e organizado
 🚀 Projetos em Desenvolvimento
-
+---
+📂 Projetos e Contribuições
+Acompanhe meus projetos e contribuições em desenvolvimento diretamente no meu GitHub.
