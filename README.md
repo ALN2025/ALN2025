@@ -1,8 +1,8 @@
 # 👋 Olá, sou ALN2025! 👋
 
-# 👋 Olá, sou ALN2025!
-
-<img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif](https://media1.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="300" alt="GIF animado" />
+<p align="center">
+  <img src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif" width="350" alt="GIF animado" />
+</p>
 
 
 Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, com foco em desenvolvimento e automação.
