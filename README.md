@@ -42,7 +42,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 🚀 Projetos Concluidos
 ---
-🌍 [Site AOCUBOS](https://www.aocubo.dev.br)
+🌍 [Site AOCUBO](https://www.aocubo.dev.br)
 
 🌍 [Site TR PEGASUS](https://www.trpegasus.com.br)
 
