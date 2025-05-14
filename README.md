@@ -30,3 +30,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 > Estatísticas de tempo de programação geradas automaticamente pelo [WakaTime](https://wakatime.com/@ALN2025).  
 > Veja quanto tempo eu dedico a cada linguagem e projeto em tempo real!
 
+## 🏆 Achievements
+
+🥇 x2 &nbsp; ❄️ x4 &nbsp; 🤠 x1 &nbsp; 🌀 x1  
+💖 x1 &nbsp; 🚀 x1 &nbsp; 🌙 x1 &nbsp; 😎 x3
