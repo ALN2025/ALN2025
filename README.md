@@ -1,4 +1,4 @@
-# 👋 Olá, sou ALN2025! 👋
+https://wakatime.com/badge/user/ccc1f783-eab5-42cd-8bfe-06af7816de0c/project/43b2a2e9-ca08-494d-8bc0-04fa3c3# 👋 Olá, sou ALN2025! 👋
 
 <p align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif" width="350" alt="GIF animado" />
@@ -47,4 +47,6 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ---
 🌍 [Site AOCUBO](https://www.aocubo.dev.br)
 
-🌍 [Site TR PEGASUS](https://www.trpegasus.com.br) 
+🌍 [Site TR PEGASUS](https://www.trpegasus.com.br)
+
+ https://wakatime.com/badge/user/ccc1f783-eab5-42cd-8bfe-06af7816de0c/project/43b2a2e9-ca08-494d-8bc0-04fa3c3e2566.svg
