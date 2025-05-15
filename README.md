@@ -49,15 +49,16 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 🌍 [Site TR PEGASUS](https://www.trpegasus.com.br)
 
+---
 ## 🚀 Linguagens que mais utilizo (WakaTime)
 
-| Linguagem         | Ícone | Uso Estimado |
-|-------------------|:-----:|---------------|
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | JavaScript       | 40% |
-| ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)               | HTML             | 25% |
-| ![Apache](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg)           | Apache Config    | 15% |
-| 🧩                | Other            | 7%  |
-| ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)                  | CSS              | 5%  |
-| 🖼️                | SVG (Image)      | 4%  |
-| ⚙️                | Git Config       | 2%  |
-| ![JSON](https://raw.githubusercontent.com/github/explore/main/topics/json/json.png)               | JSON             | 1%  |
+| Linguagem         | Ícone                                                                                 | Uso Estimado |
+|-------------------|----------------------------------------------------------------------------------------|---------------|
+| JavaScript        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> | 40% |
+| HTML              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/>           | 25% |
+| Apache Config     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="24"/>         | 15% |
+| Other             | <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9e9.svg" width="24"/>                | 7%  |
+| CSS               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/>              | 5%  |
+| SVG (Image)       | 🖼️                                                                                       | 4%  |
+| Git Config        | ⚙️                                                                                       | 2%  |
+| JSON              | <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="24"/>             | 1%  |
