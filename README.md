@@ -49,4 +49,3 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 🌍 [Site TR PEGASUS](https://www.trpegasus.com.br)
 
- =for html <a href="https://wakatime.com/@ccc1f783-eab5-42cd-8bfe-06af7816de0c"><img src="https://wakatime.com/badge/user/ccc1f783-eab5-42cd-8bfe-06af7816de0c.svg
