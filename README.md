@@ -119,7 +119,7 @@
 
 ---
 
-##🚧 Projetos em DESENVOLVIMENTO
+## 🚧 Projetos em DESENVOLVIMENTO
 🔗 ["https://github/ALN2025]
  
 📱 fALE+ — APK de Chamadas Adultas
