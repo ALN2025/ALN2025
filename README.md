@@ -1,69 +1,3 @@
-👋 Olá, sou ALN2025! 👋
-https://wakatime.com/@ALN2025/projects/wfybelsiun
-
-<p align="center">
-  <img src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif" width="350" alt="GIF animado" />
-</p>
-
-
-Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, com foco em desenvolvimento e automação.
-Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, com foco em desenvolvimento e automação.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/anderson-nascimento-22305931b)
-- [Facebook](https://www.facebook.com/anderson.nascimento.979538)
-- Email: developepsrs@gmail.com
-
----
-
-
-## ⏱️ WakaTime Stats
-
-> Estatísticas de tempo de programação geradas automaticamente pelo [WakaTime](https://wakatime.com/@ALN2025).  
-> Veja quanto tempo eu dedico a cada linguagem e projeto em tempo real!
---- 
-
-🚀 Projetos em Desenvolvimento
----
-
-📚 Sistema de vendas completo (camelodromo)
-
-🌍Loja Virtual(vendas )
-
----
-🚀 Projetos Concluidos
----
-🌍 [Site AOCUBO](https://www.aocubo.dev.br)
-
-🌍 [Site TR PEGASUS](https://www.trpegasus.com.br)
-
----
-## 🚀 Linguagens que mais utilizo (WakaTime)
-
-| Linguagem         | Ícone                                                                                 | Uso Estimado |
-|-------------------|----------------------------------------------------------------------------------------|---------------|
-| JavaScript        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> | 40% |
-| HTML              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/>           | 25% |
-| Apache Config     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="24"/>         | 15% |
-| Other             | <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9e9.svg" width="24"/>                | 7%  |
-| CSS               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/>              | 5%  |
-| SVG (Image)       | 🖼️                                                                                       | 4%  |
-| Git Config        | ⚙️                                                                                       | 2%  |
-| JSON              | <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="24"/>             | 1%  |
-
 
 <h1 align="center">👋 Olá, sou <span style="color:#00BFFF;">ALN</span></h1>
 
@@ -185,19 +119,23 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 ---
 
-## 🚧 Projetos em Destaque
-
-### 🗓️ Java Web Agenda  
-🔗 [Repositório no GitHub](https://github.com/ALN2025/Java_Web_Agenda)
-
-**Stack:** Java 19 | Tomcat 9 | MariaDB | iTextPDF | HTML/CSS/JS  
-**Funcionalidades:**
-- Gerenciamento de contatos
-- Geração de relatórios em PDF
+🚧 Projetos em Destaque
+📱 fALE+ — APK de Chamadas Adultas
+🔗 ["https://github/ALN2025]
+Stack: Android (APK) | Java/Kotlin | XML | Material Design
+Descrição:
+O fALE+ é um aplicativo mobile desenvolvido para facilitar chamadas adultas de forma prática, segura e discreta. O app oferece uma interface moderna e intuitiva, proporcionando uma experiência fluida para usuários que buscam comunicação privada e personalizada.
+Funcionalidades:
+Realização de chamadas de voz e vídeo com privacidade
+Interface amigável e responsiva
+Sistema de cadastro e autenticação de usuários
+Histórico de chamadas
+Notificações em tempo real
+Design adaptado para diferentes dispositivos Android
 
 ---
 
-### 🌐 Mult-Verso - Site Oficial  
+### 🌐 <AO CUBO>- Site Oficial  
 🔗 [Visite o site](https://www.aocubo.dev.br)
 
 **Funcionalidades:**
