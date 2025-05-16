@@ -119,8 +119,8 @@
 
 ---
 
-🚧 Projetos em Destaque
-📱 fALE+ — APK de Chamadas Adultas
+### 🚧 Projetos em Destaque
+ 📱 fALE+ — APK de Chamadas Adultas
 🔗 ["https://github/ALN2025]
 Stack: Android (APK) | Java/Kotlin | XML | Material Design
 Descrição:
