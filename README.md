@@ -231,8 +231,8 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ## ⭐ Contribuições & Repositórios
 
 <p align="center">
-  <a href="https://github.com/LeoTerryMaster">
-    <img src="https://img.shields.io/badge/GitHub-LeandroGomes-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/ALN2025">
+    <img src="https://img.shields.io/badge/GitHub-AndersonNascimento-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
