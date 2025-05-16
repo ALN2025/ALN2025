@@ -161,7 +161,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ## 🕒 WakaTime Stats
 
 <p align="center">
-  <a href="https://wakatime.com/@TerryMaster">
+  <a href="https://wakatime.com/@ALN2025">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ALN2025&theme=highcontrast&hide_border=true" alt="WakaTime Stats">
   </a>
 </p>
