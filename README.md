@@ -148,13 +148,13 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 ## 🌍 Conecte-se comigo
 
-- 🌐 Website: [mult-verso.com](https://www.aocubo.dev.br)
-- ▶️ YouTube: [@L2MultVerso](https://www.youtube.com/@anderson.L2JaCis)
-- 📘 Facebook: [Leandro Gomes](https://www.facebook.com/anderson.nascimento.979538)
-- 🔗 LinkedIn: [Leandro Gomes Santos](https://www.linkedin.com/in/anderson-nascimento-22305931b)
+- 🌐 Website: [aocubo.dev.br](https://www.aocubo.dev.br)
+- ▶️ YouTube: [@anderson.L2JaCis](https://www.youtube.com/@anderson.L2JaCis)
+- 📘 Facebook: [anderson.nascimento](https://www.facebook.com/anderson.nascimento.979538)
+- 🔗 LinkedIn: [anderson-nascimento](https://www.linkedin.com/in/anderson-nascimento-22305931b)
 - 💬 WhatsApp: [https://chat.whatsapp.com/C5Z4H7funYGGc9n33Zo2q6)
-- 📸 Instagram: [@terrygomess](https://www.instagram.com/terrygomess/)
-- 🎮 Discord: [Server Mult-Verso](https://discord.gg/)
+- 📸 Instagram: [@](https://www.instagram.com/)
+- 🎮 Discord: [](https://discord.gg/)
 
 ---
 
@@ -162,7 +162,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 <p align="center">
   <a href="https://wakatime.com/@TerryMaster">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster&theme=highcontrast&hide_border=true" alt="WakaTime Stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ALN2025&theme=highcontrast&hide_border=true" alt="WakaTime Stats">
   </a>
 </p>
 
@@ -171,7 +171,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ## 🚧 Projetos em Destaque
 
 ### 🗓️ Java Web Agenda  
-🔗 [Repositório no GitHub](https://github.com/LeoTerryMaster/Java_Web_Agenda)
+🔗 [Repositório no GitHub](https://github.com/ALN2025/Java_Web_Agenda)
 
 **Stack:** Java 19 | Tomcat 9 | MariaDB | iTextPDF | HTML/CSS/JS  
 **Funcionalidades:**
@@ -181,7 +181,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ---
 
 ### 🌐 Mult-Verso - Site Oficial  
-🔗 [Visite o site](https://www.mult-verso.com)
+🔗 [Visite o site](https://www.aocubo.dev.br)
 
 **Funcionalidades:**
 - Licenciamento dinâmico
