@@ -1,5 +1,5 @@
 👋 Olá, sou ALN2025! 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+https://wakatime.com/@ALN2025/projects/wfybelsiun
 
 <p align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif" width="350" alt="GIF animado" />
