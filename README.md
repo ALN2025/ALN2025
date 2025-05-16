@@ -79,14 +79,14 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 ---
 
-## 🌐 Fórum Mult-Verso
+## 🌐 SITE <AO CUBO>
 
 <p>
   Participe da comunidade e compartilhe conhecimento sobre <strong>tecnologia</strong>, <strong>jogos</strong> e <strong>programação</strong>:
 </p>
 
 <p align="center">
-  <a href="https://www.mult-verso.com/">
+  <a href="https://www.aocubo.dev.br/portifolio">
     <img src="https://img.shields.io/badge/Forum-Visitar-2a9d8f?style=for-the-badge&logo=discourse&logoColor=white">
   </a>
 </p>
