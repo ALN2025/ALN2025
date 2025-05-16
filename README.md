@@ -94,22 +94,6 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 ---
 
----
-## 🚀 Linguagens que mais utilizo (WakaTime)
-
-| Linguagem         | Ícone                                                                                 | Uso Estimado |
-|-------------------|----------------------------------------------------------------------------------------|---------------|
-| JavaScript        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> | 40% |
-| HTML              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/>           | 25% |
-| Apache Config     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="24"/>         | 15% |
-| Other             | <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9e9.svg" width="24"/>                | 7%  |
-| CSS               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/>              | 5%  |
-| SVG (Image)       | 🖼️                                                                                       | 4%  |
-| Git Config        | ⚙️                                                                                       | 2%  |
-| JSON              | <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="24"/>             | 1%  |
-
----
-
 ## 📈 Estatísticas GitHub
 
 <p align="center">
@@ -139,6 +123,19 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 ---
 
+## 🚀 Linguagens que mais utilizo (WakaTime)
+
+| Linguagem         | Ícone                                                                                 | Uso Estimado |
+|-------------------|----------------------------------------------------------------------------------------|---------------|
+| JavaScript        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> | 40% |
+| HTML              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/>           | 25% |
+| Apache Config     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="24"/>         | 15% |
+| Other             | <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9e9.svg" width="24"/>                | 7%  |
+| CSS               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/>              | 5%  |
+| SVG (Image)       | 🖼️                                                                                       | 4%  |
+| Git Config        | ⚙️                                                                                       | 2%  |
+| JSON              | <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="24"/>             | 1%  |
+---
 ## 🔗 Currículo
 
 <p align="center">
