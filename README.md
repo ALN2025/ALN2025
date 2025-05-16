@@ -97,7 +97,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ## 💻 Tecnologias e Ferramentas
 
 <table>
-  <tr><td>Java</td><td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td></tr>
+ ![HTML5] <tr><td>Java</td><td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td></tr>
   <tr><td>JSP</td><td><img src="https://img.shields.io/badge/JSP-FFB913?style=for-the-badge&logo=jsp&logoColor=white"></td></tr>
   <tr><td>JavaScript</td><td><img src="https://img.shields.io/badge/JavaScript-FFAC33?style=for-the-badge&logo=javascript&logoColor=black"></td></tr>
   <tr><td>HTML5</td><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td></tr>
