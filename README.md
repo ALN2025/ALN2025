@@ -120,9 +120,11 @@
 ---
 
 ### 🚧 Projetos em Destaque
- 📱 fALE+ — APK de Chamadas Adultas
 🔗 ["https://github/ALN2025]
+ 
+📱 fALE+ — APK de Chamadas Adultas
 Stack: Android (APK) | Java/Kotlin | XML | Material Design
+
 Descrição:
 O fALE+ é um aplicativo mobile desenvolvido para facilitar chamadas adultas de forma prática, segura e discreta. O app oferece uma interface moderna e intuitiva, proporcionando uma experiência fluida para usuários que buscam comunicação privada e personalizada.
 Funcionalidades:
