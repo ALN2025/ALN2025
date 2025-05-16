@@ -155,6 +155,8 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 ## 🚀 Linguagens que mais utilizo
 
+## 🚀 Linguagens que mais utilizo
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
@@ -166,6 +168,21 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
 </p>
 
 ---
