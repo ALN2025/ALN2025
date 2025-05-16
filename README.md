@@ -94,15 +94,19 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+---
+## 🚀 Linguagens que mais utilizo (WakaTime)
 
-<table>
-  <tr><td>Java</td><td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td></tr>
-  <tr><td>JSP</td><td><img src="https://img.shields.io/badge/JSP-FFB913?style=for-the-badge&logo=jsp&logoColor=white"></td></tr>
-  <tr><td>HTML5</td><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td></tr>
-  <tr><td>CSS3</td><td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td></tr>
-  <tr><td>PHP</td><td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td></tr>
-</table>
+| Linguagem         | Ícone                                                                                 | Uso Estimado |
+|-------------------|----------------------------------------------------------------------------------------|---------------|
+| JavaScript        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> | 40% |
+| HTML              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/>           | 25% |
+| Apache Config     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="24"/>         | 15% |
+| Other             | <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9e9.svg" width="24"/>                | 7%  |
+| CSS               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/>              | 5%  |
+| SVG (Image)       | 🖼️                                                                                       | 4%  |
+| Git Config        | ⚙️                                                                                       | 2%  |
+| JSON              | <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="24"/>             | 1%  |
 
 ---
 
