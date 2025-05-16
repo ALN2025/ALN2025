@@ -99,7 +99,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 <table>
  ![HTML5] <tr><td>Java</td><td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td></tr>
   <tr><td>JSP</td><td><img src="https://img.shields.io/badge/JSP-FFB913?style=for-the-badge&logo=jsp&logoColor=white"></td></tr>
-  <tr><td>JavaScript</td><td><img src="https://img.shields.io/badge/JavaScript-FFAC33?style=for-the-badge&logo=javascript&logoColor=black"></td></tr>
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   <tr><td>HTML5</td><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td></tr>
   <tr><td>CSS3</td><td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td></tr>
   <tr><td>PHP</td><td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td></tr>
