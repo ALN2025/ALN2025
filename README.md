@@ -156,13 +156,17 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ## 🚀 Linguagens que mais utilizo
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="border-radius: 50%; border: 2px solid #F7DF1E; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="border-radius: 50%; border: 2px solid #E34F26; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="border-radius: 50%; border: 2px solid #1572B6; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" style="border-radius: 50%; border: 2px solid #3178C6; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="border-radius: 50%; border: 2px solid #3776AB; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
 </p>
-
 ---
 
 ## 🚧 Projetos em Destaque
