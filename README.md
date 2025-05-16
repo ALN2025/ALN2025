@@ -167,6 +167,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
 </p>
+
 ---
 
 ## 🚧 Projetos em Destaque
