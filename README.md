@@ -156,7 +156,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ## 🚀 Linguagens que mais utilizo (WakaTime)
 
 | Linguagem         | Ícone                                                                                 | Uso Estimado |
-|-------------------|----------------------------------------------------------------------------------------|---------------|
+|-------------------|--------------------------------------------------------------------------------------|--------------|
 | JavaScript        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> | 40% |
 | HTML              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/>           | 25% |
 | Apache Config     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="24"/>         | 15% |
@@ -165,7 +165,27 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 | SVG (Image)       | 🖼️                                                                                       | 4%  |
 | Git Config        | ⚙️                                                                                       | 2%  |
 | JSON              | <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="24"/>             | 1%  |
-| Java              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg" width="24"/>             | 1%  |
+| Python            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/>          | 1%  |
+| TypeScript        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24"/>  | 1%  |
+| PHP               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/>                | 1%  |
+| Bash/Shell        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24"/>              | 1%  |
+| Java              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/>              | 1%  |
+| C                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24"/>                    | 1%  |
+| C++               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/>    | 1%  |
+| C#                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24"/>          | 1%  |
+| SQL               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/>            | 1%  |
+| Dockerfile        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/>           | 1%  |
+| YAML              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="24"/>              | 1%  |
+| Markdown          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="24"/>      | 1%  |
+| XML               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="24"/>                | 1%  |
+| PowerShell        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="24"/>  | 1%  |
+| Ruby              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="24"/>              | 1%  |
+| Go                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="24"/>                  | 1%  |
+| Swift             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="24"/>            | 1%  |
+| Kotlin            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="24"/>          | 1%  |
+| Dart              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="24"/>              | 1%  |
+| Rust              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="24"/>                 | 1%  | 
+
 ---
 
 ## 🚧 Projetos em Destaque
