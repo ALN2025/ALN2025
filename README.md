@@ -111,27 +111,27 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 <p align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ALN2025&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <!-- Contribuição em Gráfico -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&theme=highcontrast&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=LeoTerryMaster&theme=highcontrast&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=highcontrast&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
@@ -139,7 +139,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 ## 🔗 Currículo
 
 <p align="center">
-  <a href="https://leoterrymaster.github.io/emprego/">
+  <a href="https://ALN2025/emprego/">
     <img src="https://img.shields.io/badge/Meu_Currículo-Download-blue?style=for-the-badge&logo=adobeacrobat">
   </a>
 </p>
