@@ -155,8 +155,6 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 ## 🚀 Linguagens que mais utilizo
 
-## 🚀 Linguagens que mais utilizo
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
