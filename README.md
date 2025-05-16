@@ -165,6 +165,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 | SVG (Image)       | 🖼️                                                                                       | 4%  |
 | Git Config        | ⚙️                                                                                       | 2%  |
 | JSON              | <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="24"/>             | 1%  |
+| Java              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg" width="24"/>             | 1%  |
 ---
 
 ## 🚧 Projetos em Destaque
