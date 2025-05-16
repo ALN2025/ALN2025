@@ -180,7 +180,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="60" style="filter: drop-shadow(2px 4px 6px black);" />
 </p>
 
 ---
