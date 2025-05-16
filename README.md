@@ -148,13 +148,13 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação, c
 
 ## 🌍 Conecte-se comigo
 
-- 🌐 Website: [mult-verso.com](https://www.mult-verso.com)
-- ▶️ YouTube: [@L2MultVerso](https://www.youtube.com/@L2MultVerso)
-- 📘 Facebook: [Leandro Gomes](https://www.facebook.com/profile.php?id=100094957390851)
-- 🔗 LinkedIn: [Leandro Gomes Santos](https://www.linkedin.com/in/leandro-gomes-santos-81694919b/)
-- 💬 WhatsApp: [Grupo Mult-Verso](https://chat.whatsapp.com/J85Vz2Fi8stGoTWSLIMPdk)
+- 🌐 Website: [mult-verso.com](https://www.aocubo.dev.br)
+- ▶️ YouTube: [@L2MultVerso](https://www.youtube.com/@anderson.L2JaCis)
+- 📘 Facebook: [Leandro Gomes](https://www.facebook.com/anderson.nascimento.979538)
+- 🔗 LinkedIn: [Leandro Gomes Santos](https://www.linkedin.com/in/anderson-nascimento-22305931b)
+- 💬 WhatsApp: [https://chat.whatsapp.com/C5Z4H7funYGGc9n33Zo2q6)
 - 📸 Instagram: [@terrygomess](https://www.instagram.com/terrygomess/)
-- 🎮 Discord: [Server Mult-Verso](https://discord.gg/EN8mJBcu)
+- 🎮 Discord: [Server Mult-Verso](https://discord.gg/)
 
 ---
 
