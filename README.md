@@ -119,6 +119,33 @@
 
 ---
 
+### 🌐 <AO CUBO>- Site Oficial  
+🔗 [Visite o site](https://www.aocubo.dev.br)
+
+**Funcionalidades:**
+- Licenciamento dinâmico
+- Comentários em destaque
+- Rodapé com informações gerais
+
+---
+
+# Sistema de Gerenciamento UCS - P.I_SV-III-B
+
+[![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue.svg)](https://www.mysql.com/)
+[![Maven](https://img.shields.io/badge/Maven-Build-brightgreen.svg)](https://maven.apache.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+## 📋 Descrição
+
+Sistema desktop para gerenciamento de vendas, produtos e usuários, desenvolvido em Java (Swing) com persistência em banco de dados relacional (MySQL ou PostgreSQL). Projeto acadêmico UCS.
+
+Repositório oficial: [https://github.com/ALN2025/P.I_SV-III-B](https://github.com/ALN2025/P.I_SV-III-B)
+
+---
+
+---
+
 ## 🚧 Projetos em DESENVOLVIMENTO
 🔗[REPOSITORIO] 
  
@@ -135,57 +162,6 @@ Sistema de cadastro e autenticação de usuários
 Histórico de chamadas
 Notificações em tempo real
 Design adaptado para diferentes dispositivos Android
-
----
-
-### 🌐 <AO CUBO>- Site Oficial  
-🔗 [Visite o site](https://www.aocubo.dev.br)
-
-**Funcionalidades:**
-- Licenciamento dinâmico
-- Comentários em destaque
-- Rodapé com informações gerais
-
----
-
-## 🔐 Sistema de Login Seguro
-
-- Autenticação com token e sessões seguras  
-- Controle de tentativas de login  
-- Níveis de acesso (Admin / Usuário)
-
----
-
-## 🛠️ Backend & API
-
-- Autenticação com chave/API Token  
-- Restrições por IP  
-- Gerenciamento de licenças com validade e status  
-
----
-
-## 📊 Painel do Usuário
-
-- CRUD de licenças com autenticação por senha  
-- Controle de status e valores  
-- Logs detalhados em banco e arquivos
-
----
-
-## 💳 Integração com MercadoPago
-
-- Pagamento automático de planos/licenças  
-- Stripe e PayPal (indisponíveis)
-
----
-
-## 🧠 Sistema Java & Segurança
-
-- Bloqueio por IP  
-- Integração com painel web  
-- Controle detalhado de funcionalidades por licença  
-
----
 
 ## ⭐ Contribuições & Repositórios
 
