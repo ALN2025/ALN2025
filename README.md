@@ -128,7 +128,7 @@
 - Rodapé com informações gerais
 
 ---
-
+## 🚧 Projetos em DESENVOLVIMENTO
 # Sistema de Gerenciamento UCS - P.I_SV-III-B
 
 [![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/)
@@ -144,24 +144,6 @@ Repositório oficial: [https://github.com/ALN2025/P.I_SV-III-B](https://github.c
 
 ---
 
----
-
-## 🚧 Projetos em DESENVOLVIMENTO
-🔗[REPOSITORIO] 
- 
-📱 fALE+ — APK de Chamadas Adultas
-
-- Stack: Android (APK) | Java/Kotlin | XML | Material Design
-
-- Descrição:
-O fALE+ é um aplicativo mobile desenvolvido para facilitar chamadas adultas de forma prática, segura e discreta. O app oferece uma interface moderna e intuitiva, proporcionando uma experiência fluida para usuários que buscam comunicação privada e personalizada.
-Funcionalidades:
-Realização de chamadas de voz e vídeo com privacidade
-Interface amigável e responsiva
-Sistema de cadastro e autenticação de usuários
-Histórico de chamadas
-Notificações em tempo real
-Design adaptado para diferentes dispositivos Android
 
 ## ⭐ Contribuições & Repositórios
 
