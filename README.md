@@ -143,6 +143,13 @@ Sistema desktop para gerenciamento de vendas, produtos e usuários, desenvolvido
 Repositório oficial: [https://github.com/ALN2025/P.I_SV-III-B](https://github.com/ALN2025/P.I_SV-III-B)
 
 --- 
+Sistema de Gerenciamento de Conexão com Banco de Dados PostgreSQL
+📋 Sobre o Projeto
+Este projeto foi desenvolvido e adaptado por mim como parte da disciplina de Análise e Desenvolvimento de Sistemas da Universidade de Caxias do Sul (UCS). O sistema implementa uma conexão com banco de dados PostgreSQL utilizando Java, seguindo padrões de projeto como DAO e POJO. O código base inicial foi fornecido pela instituição.
+
+Repositório oficial: [https://github.com/ALN2025/P.I_SV-III-B](https://github.com/ALN2025/P.I_SV-III-B)
+
+---
 
 ## ⭐ Contribuições & Repositórios
 
