@@ -150,7 +150,7 @@ Repositório oficial: [https://github.com/ALN2025/P.I_SV-III-B](https://github.c
 # Sistema de Gerenciamento de Conexão com Banco de Dados PostgreSQL
 Este projeto foi desenvolvido e adaptado por mim como parte da disciplina de Análise e Desenvolvimento de Sistemas da Universidade de Caxias do Sul (UCS). O sistema implementa uma conexão com banco de dados PostgreSQL utilizando Java, seguindo padrões de projeto como DAO e POJO. O código base inicial foi fornecido pela instituição.
 
-Repositório oficial: [https://github.com/ALN2025/P.I_SV-III-B](https://github.com/ALN2025/P.I_SV-III-B)
+Repositório oficial: [https://github.com/ALN2025/P.I_SV-III-B](https://github.com/ALN2025/VSCode_Project)
 
 
 
