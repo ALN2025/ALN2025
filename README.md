@@ -164,70 +164,68 @@ Repositório oficial: [https://github.com/ALN2025/VSCode_Project](https://github
 
 ---
 
-## Sobre o Projeto
+# L2jALN - Lineage 2 Java Server Pack ✨
 
-Sistema completo, moderno e otimizado para servidores privados de Lineage 2, desenvolvido em Java.
-Baseado em aCis, oferece estabilidade, performance e recursos avançados para administradores e jogadores.
-
-- **Logging Profissional**: Handlers customizados para logs de erro, item, chat, GM audit e mais.
-- **Scripts otimizados**: Compatíveis com Windows e Linux, já configurados para o novo padrão de pacotes.
-- **Build automatizado via Ant**: Geração de JAR completa e sem dependências externas.
-- **Compatibilidade UTF-8**: Suporte a caracteres especiais e banners personalizados.
-- **Estrutura modular**: Separação clara entre loginserver, gameserver, handlers, managers, eventos, scripts e sistemas de proteção.
+[![Java](https://img.shields.io/badge/Java-17+-blue?logo=java)]()
+[![Status](https://img.shields.io/badge/status-Ativo-brightgreen)]()
+[![Encoding](https://img.shields.io/badge/Encoding-UTF8-blue)]()
+[![Build System](https://img.shields.io/badge/Build-Apache_Ant-red?logo=apacheant)]()
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Project](https://img.shields.io/badge/Project-L2J--aln-informational)]()
 
 ---
 
-## Tecnologias Utilizadas
+## 🌟 Sobre o Projeto
 
-- Java 17+
-- Apache Ant
-- UTF-8
-- Shell Script & Batch Script
-- Sistema de Logging Customizado
+O **L2jALN** é uma base completa e altamente otimizada para servidores privados de Lineage 2, desenvolvida em Java. Construído sobre a sólida estrutura **aCis**, este projeto foca em estabilidade, performance e oferece um conjunto avançado de funcionalidades para administradores e jogadores.
+
+Com um sistema de logging profissional, scripts de inicialização eficientes e compatibilidade total com UTF-8, o L2jALN é ideal para quem busca uma base robusta e pronta para customização.
 
 ---
 
-## Como Compilar e Executar
+## 🔥 Destaques e Funcionalidades
 
-1. Compile o projeto:
-   ```sh
-   ant dist-local
-   ```
-
-2. Inicie os servidores (em terminais separados):
-   ```sh
-   cd "Pack L2Jaln/login"
-   startLoginServer.bat
-   ```
-   ```sh
-   cd "Pack L2Jaln/game"
-   startGameServer.bat
-   ```
-
-> **Dica:** Use `chcp 65001` no terminal para melhor suporte a caracteres especiais.
+-   **Estrutura Robusta:** Base aCis aprimorada com código limpo e modular (loginserver, gameserver, handlers, managers, eventos, scripts).
+-   **Sistema de Logging Avançado:** Handlers customizados para monitoramento detalhado (erros, itens, chat, auditoria de GMs, etc.).
+-   **Build Automatizado:** Processo de build via Apache Ant, gerando um JAR completo e autocontido.
+-   **Otimizações e Sistemas Exclusivos:** Diversos mods e sistemas para aprimorar a jogabilidade e a administração, incluindo:
+    -   Balanceamento PvP e Olly Class x Class
+    -   Skills chance configurável
+    -   Proteção Anti-Bot / Anti-Hacker (HWID/IP limit, etc.)
+    -   Sistemas de VIP, AIO (All-In-One), Lojas Offline.
+    -   Gerenciamento de Eventos Automáticos (TvT, CTF, Raid Event, Torneios, etc.).
+    -   Sistema de Phantom Players para simular população.
+-   **Compatibilidade:** Scripts de inicialização otimizados para Windows (.bat) e Linux (.sh).
 
 ---
 
-## Repositório
+## 💻 Tecnologias Utilizadas
 
-> **Privado** – uso exclusivo do autor
-> GitHub: [ALN2025](https://github.com/ALN2025)
+-   Java 17+
+-   Apache Ant
+-   UTF-8 Encoding
+-   Shell Script & Batch Script
+-   Sistema de Logging Customizado
+-   PostgreSQL (geralmente usado com L2J packs, mencionar compatibilidade)
 
 ---
 
-## Assinatura
 
-```
-Trabalho desenvolvido e pertencente a Anderson Luis do Nascimento  
+> **Dica:** Utilize terminais compatíveis com UTF-8 (como o PowerShell moderno no Windows com `chcp 65001` ou terminais Linux) para evitar problemas de exibição de caracteres especiais nos logs e consoles.
+
+---
+
+## 📁 Repositório
+
+Este repositório contém o código-fonte do projeto L2jALN.
+> **Status:** Repositório Privado – Acesso exclusivo do autor.
+> **Autor:** [ALN2025](https://github.com/ALN2025)
+
+---
+
+## ✒️ Assinatura
 Dev ⩿ A.L.N/⪀
-```
 
----
-
-L2jALN — O melhor da tecnologia Java para servidores Lineage 2! 
-
-
---- 
 
 ## ⭐ Contribuições & Repositórios
 
