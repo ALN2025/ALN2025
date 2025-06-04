@@ -173,38 +173,6 @@ Com um sistema de logging profissional, scripts de inicialização eficientes e 
 
 ---
 
-## 🔥 Destaques e Funcionalidades
-
--   **Estrutura Robusta:** Base aCis aprimorada com código limpo e modular (loginserver, gameserver, handlers, managers, eventos, scripts).
--   **Sistema de Logging Avançado:** Handlers customizados para monitoramento detalhado (erros, itens, chat, auditoria de GMs, etc.).
--   **Build Automatizado:** Processo de build via Apache Ant, gerando um JAR completo e autocontido.
--   **Otimizações e Sistemas Exclusivos:** Diversos mods e sistemas para aprimorar a jogabilidade e a administração, incluindo:
-    -   Balanceamento PvP e Olly Class x Class
-    -   Skills chance configurável
-    -   Proteção Anti-Bot / Anti-Hacker (HWID/IP limit, etc.)
-    -   Sistemas de VIP, AIO (All-In-One), Lojas Offline.
-    -   Gerenciamento de Eventos Automáticos (TvT, CTF, Raid Event, Torneios, etc.).
-    -   Sistema de Phantom Players para simular população.
--   **Compatibilidade:** Scripts de inicialização otimizados para Windows (.bat) e Linux (.sh).
-
----
-
-## 💻 Tecnologias Utilizadas
-
--   Java 17+
--   Apache Ant
--   UTF-8 Encoding
--   Shell Script & Batch Script
--   Sistema de Logging Customizado
--   PostgreSQL (geralmente usado com L2J packs, mencionar compatibilidade)
-
----
-
-
-> **Dica:** Utilize terminais compatíveis com UTF-8 (como o PowerShell moderno no Windows com `chcp 65001` ou terminais Linux) para evitar problemas de exibição de caracteres especiais nos logs e consoles.
-
----
-
 ## 📁 Repositório
 
 Este repositório contém o código-fonte do projeto L2jALN.
