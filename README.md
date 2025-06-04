@@ -160,7 +160,7 @@ Repositório oficial: [https://github.com/ALN2025/VSCode_Project](https://github
 [![Status](https://img.shields.io/badge/status-Ativo-brightgreen)]()
 [![UTF-8](https://img.shields.io/badge/Encoding-UTF8-blue)]()
 [![Ant](https://img.shields.io/badge/Build-Ant-red)]()
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]()
+[![L2J-aln](https://img.shields.io/badge/Projeto-L2J--aln-brightgreen)]()
 
 ---
 
