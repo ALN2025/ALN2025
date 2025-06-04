@@ -154,7 +154,7 @@ Repositório oficial: [https://github.com/ALN2025/VSCode_Project](https://github
 
 ---
 
-# L2jALN - Lineage 2 Java Server Pack ✨
+# L2jALN - Lineage 2 Java (Source) ✨
 
 [![Java](https://img.shields.io/badge/Java-17+-blue?logo=java)]()
 [![Status](https://img.shields.io/badge/status-Ativo-brightgreen)]()
