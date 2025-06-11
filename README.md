@@ -235,6 +235,8 @@ L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (High Five), que o
 - Cliente Lineage II High Five (Protocolo 746)
 - Suporte a UTF-8
 - DirectX 9.0c ou superior
+
+Repositório oficial:
 ---
 
 ## ✒️ Assinatura
