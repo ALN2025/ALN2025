@@ -208,7 +208,7 @@ Este repositório contém o código-fonte do projeto L2jALN.
 
 ---
 
-Repositório oficial:
+Repositório oficial: https://github.com/ALN2025/pack_L2JALN
 ---
 
 ## ✒️ Assinatura
