@@ -181,7 +181,7 @@ Este repositório contém o código-fonte do projeto L2jALN.
 
 ---
 
-# L2JALN - Lineage 2 Java Server Pack ✨
+# Pack_L2JALN - Lineage 2 Java Server Pack ✨
 [![Java](https://img.shields.io/badge/Java-17+-blue)](https://www.java.com/)
 [![Status](https://img.shields.io/badge/status-Ativo-green)](https://github.com/ALN2025/Pack_L2Jaln/actions)
 [![Encoding](https://img.shields.io/badge/Encoding-UTF8-blue)](https://en.wikipedia.org/wiki/UTF-8)
