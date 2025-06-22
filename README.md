@@ -130,7 +130,7 @@
 ---
 ## 🚧 Projetos em DESENVOLVIMENTO
 
-# 🎮 Sistema de Gerenciamento UCS
+Sistema de Gerenciamento UCS - APK Oficial é uma aplicação Java desktop desenvolvida para gerenciar usuários, produtos e vendas. O sistema utiliza arquitetura MVC (Model-View-Controller) com interface gráfica Swing e persistência de dados em MySQL.
 
 [![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.java.com) 
 [![status](https://img.shields.io/badge/status-Ativo-green.svg)]() 
