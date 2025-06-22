@@ -177,6 +177,8 @@
 - ✅ Criação de vendas vinculadas a usuários.
 - ✅ Adição de múltiplos itens e cálculo automático de totais.
 - ✅ Geração de extrato detalhado.
+
+**Repositório oficial: https://github.com/ALN2025/UCS_APK** 
 --- 
 # Sistema de Gerenciamento UCS - P.I_SV-III-B
 
