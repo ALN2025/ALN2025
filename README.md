@@ -177,28 +177,7 @@
 - ✅ Criação de vendas vinculadas a usuários.
 - ✅ Adição de múltiplos itens e cálculo automático de totais.
 - ✅ Geração de extrato detalhado.
-
-## 🏗️ Arquitetura
-
-O projeto segue uma arquitetura bem definida para garantir a separação de responsabilidades e facilitar a manutenção:
-
--   **Model**: Classes de domínio (`Usuario`, `Produto`, `Venda`) que representam os dados.
--   **View**: Telas da interface gráfica (`TelaPrincipal`, `TelaCadastroUsuario`, etc.) construídas com Swing.
--   **Controller/DAO**: Camada de acesso a dados (`UsuarioDAO`, `ProdutoDAO`) que realiza as operações de persistência no banco de dados.
--   **Util**: Utilitários como a classe de conexão com o banco de dados (`ConexaoBD`).
-
-```
-
-## 📞 Suporte
-
-Para dúvidas, sugestões ou reporte de bugs, por favor, abra uma **[Issue](https://github.com/ALN2025/UCS_APK/issues)** no repositório.
-
----
-
-**Repositório oficial: https://github.com/ALN2025/UCS_APK** 
-
-
-
+--- 
 # Sistema de Gerenciamento UCS - P.I_SV-III-B
 
 [![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/)
