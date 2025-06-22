@@ -129,6 +129,76 @@
 
 ---
 ## 🚧 Projetos em DESENVOLVIMENTO
+
+# 🎮 Sistema de Gerenciamento UCS
+
+[![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.java.com) 
+[![status](https://img.shields.io/badge/status-Ativo-green.svg)]() 
+[![Encoding](https://img.shields.io/badge/Encoding-UTF8-blue.svg)]() 
+[![Build](https://img.shields.io/badge/Build-Maven-critical.svg)](https://maven.apache.org/) 
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
+[![Project](https://img.shields.io/badge/Project-UCS--APK-orange.svg)]()
+
+> Uma aplicação de desktop completa e profissional para gerenciamento de usuários, produtos e vendas, com funcionalidades avançadas e estrutura MVC.
+
+---
+
+### 📋 Índice
+
+*   [Características Principais](#-características-principais)
+*   [Funcionalidades](#-funcionalidades)
+*   [Arquitetura](#️-arquitetura)
+*   [Instalação e Configuração](#-instalação-e-configuração)
+*   [Estrutura do Projeto](#-estrutura-do-projeto)
+*   [Suporte](#-suporte)
+
+---
+
+## ✨ Características Principais
+
+*   **Interface Gráfica Intuitiva**: Desenvolvida com **Java Swing** para uma experiência de usuário amigável.
+*   **Gerenciamento Completo**: Módulos para controle de **Usuários**, **Produtos** e **Vendas**.
+*   **Persistência de Dados**: Conexão com banco de dados **MySQL** para armazenamento seguro.
+*   **Arquitetura Sólida**: Baseado no padrão **MVC (Model-View-Controller)** para organização e manutenibilidade.
+*   **Build Automatizado**: Gerenciamento de dependências e build com **Maven**.
+*   **Código Aberto**: Projeto licenciado sob **MIT License**.
+
+## 📦 Funcionalidades
+
+### 👥 Gestão de Usuários
+- ✅ Cadastro, edição e exclusão de usuários.
+- ✅ Listagem e busca de registros.
+
+### 🛍️ Gestão de Produtos
+- ✅ Cadastro de produtos, preços e controle de estoque.
+- ✅ Atualização de informações de inventário.
+
+### 💰 Sistema de Vendas
+- ✅ Criação de vendas vinculadas a usuários.
+- ✅ Adição de múltiplos itens e cálculo automático de totais.
+- ✅ Geração de extrato detalhado.
+
+## 🏗️ Arquitetura
+
+O projeto segue uma arquitetura bem definida para garantir a separação de responsabilidades e facilitar a manutenção:
+
+-   **Model**: Classes de domínio (`Usuario`, `Produto`, `Venda`) que representam os dados.
+-   **View**: Telas da interface gráfica (`TelaPrincipal`, `TelaCadastroUsuario`, etc.) construídas com Swing.
+-   **Controller/DAO**: Camada de acesso a dados (`UsuarioDAO`, `ProdutoDAO`) que realiza as operações de persistência no banco de dados.
+-   **Util**: Utilitários como a classe de conexão com o banco de dados (`ConexaoBD`).
+
+```
+
+## 📞 Suporte
+
+Para dúvidas, sugestões ou reporte de bugs, por favor, abra uma **[Issue](https://github.com/ALN2025/UCS_APK/issues)** no repositório.
+
+---
+
+**Repositório oficial: https://github.com/ALN2025/UCS_APK** 
+
+
+
 # Sistema de Gerenciamento UCS - P.I_SV-III-B
 
 [![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/)
