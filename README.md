@@ -129,54 +129,42 @@
 
 ---
 ## 🚧 Projetos em DESENVOLVIMENTO
+---
+# 🏢 Sistema de Gerenciamento UCS - APK Oficial
+
+[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://openjdk.java.net/projects/jdk/17/)
+[![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-green.svg)](https://www.mysql.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+## 📋 Descrição
 
 Sistema de Gerenciamento UCS - APK Oficial é uma aplicação Java desktop desenvolvida para gerenciar usuários, produtos e vendas. O sistema utiliza arquitetura MVC (Model-View-Controller) com interface gráfica Swing e persistência de dados em MySQL.
 
-[![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.java.com) 
-[![status](https://img.shields.io/badge/status-Ativo-green.svg)]() 
-[![Encoding](https://img.shields.io/badge/Encoding-UTF8-blue.svg)]() 
-[![Build](https://img.shields.io/badge/Build-Maven-critical.svg)](https://maven.apache.org/) 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
-[![Project](https://img.shields.io/badge/Project-UCS--APK-orange.svg)]()
-
-> Uma aplicação de desktop completa e profissional para gerenciamento de usuários, produtos e vendas, com funcionalidades avançadas e estrutura MVC.
-
----
-
-### 📋 Índice
-
-*   [Características Principais](#-características-principais)
-*   [Funcionalidades](#-funcionalidades)
-*   [Arquitetura](#️-arquitetura)
-*   [Instalação e Configuração](#-instalação-e-configuração)
-*   [Estrutura do Projeto](#-estrutura-do-projeto)
-*   [Suporte](#-suporte)
-
----
-
-## ✨ Características Principais
-
-*   **Interface Gráfica Intuitiva**: Desenvolvida com **Java Swing** para uma experiência de usuário amigável.
-*   **Gerenciamento Completo**: Módulos para controle de **Usuários**, **Produtos** e **Vendas**.
-*   **Persistência de Dados**: Conexão com banco de dados **MySQL** para armazenamento seguro.
-*   **Arquitetura Sólida**: Baseado no padrão **MVC (Model-View-Controller)** para organização e manutenibilidade.
-*   **Build Automatizado**: Gerenciamento de dependências e build com **Maven**.
-*   **Código Aberto**: Projeto licenciado sob **MIT License**.
-
-## 📦 Funcionalidades
+## ✨ Funcionalidades
 
 ### 👥 Gestão de Usuários
-- ✅ Cadastro, edição e exclusão de usuários.
-- ✅ Listagem e busca de registros.
+- ✅ Cadastro completo de usuários
+- ✅ Edição de dados pessoais
+- ✅ Exclusão de registros
+- ✅ Listagem e busca de usuários
 
-### 🛍️ Gestão de Produtos
-- ✅ Cadastro de produtos, preços e controle de estoque.
-- ✅ Atualização de informações de inventário.
+### 📦 Gestão de Produtos
+- ✅ Cadastro de produtos com preços
+- ✅ Controle de estoque
+- ✅ Atualização de informações
+- ✅ Listagem e busca de produtos
 
 ### 💰 Sistema de Vendas
-- ✅ Criação de vendas vinculadas a usuários.
-- ✅ Adição de múltiplos itens e cálculo automático de totais.
-- ✅ Geração de extrato detalhado.
+- ✅ Criação de vendas
+- ✅ Adição de múltiplos itens
+- ✅ Cálculo automático de totais
+- ✅ Extrato detalhado de vendas
+
+### 📊 Relatórios
+- ✅ Listagem de todas as vendas
+- ✅ Extrato por venda específica
+- ✅ Relatórios básicos de dados
 
 **Repositório oficial: https://github.com/ALN2025/UCS_APK** 
 --- 
