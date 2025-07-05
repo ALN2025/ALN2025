@@ -130,16 +130,8 @@
 ---
 ## 🚧 Projetos em DESENVOLVIMENTO
 ---
-# 🏢 Sistema de Gerenciamento UCS - APK Oficial
-
-[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://openjdk.java.net/projects/jdk/17/)
-[![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0+-green.svg)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📋 Descrição
-
---- 
 
 ## 📋 Sobre o Projeto
 ![Java 8](https://img.shields.io/badge/Java-8-orange) ![Status](https://img.shields.io/badge/Status-Development-blue) ![License](https://img.shields.io/badge/License-UCS_License-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![pgAdmin 4](https://img.shields.io/badge/pgAdmin4-23211F?style=for-the-badge&logo=pgadmin4&logoColor=white)
