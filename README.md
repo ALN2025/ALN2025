@@ -139,48 +139,6 @@
 
 ## 📋 Descrição
 
-Sistema de Gerenciamento UCS - APK Oficial é uma aplicação Java desktop desenvolvida para gerenciar usuários, produtos e vendas. O sistema utiliza arquitetura MVC (Model-View-Controller) com interface gráfica Swing e persistência de dados em MySQL.
-
-## ✨ Funcionalidades
-
-### 👥 Gestão de Usuários
-- ✅ Cadastro completo de usuários
-- ✅ Edição de dados pessoais
-- ✅ Exclusão de registros
-- ✅ Listagem e busca de usuários
-
-### 📦 Gestão de Produtos
-- ✅ Cadastro de produtos com preços
-- ✅ Controle de estoque
-- ✅ Atualização de informações
-- ✅ Listagem e busca de produtos
-
-### 💰 Sistema de Vendas
-- ✅ Criação de vendas
-- ✅ Adição de múltiplos itens
-- ✅ Cálculo automático de totais
-- ✅ Extrato detalhado de vendas
-
-### 📊 Relatórios
-- ✅ Listagem de todas as vendas
-- ✅ Extrato por venda específica
-- ✅ Relatórios básicos de dados
-
-**Repositório oficial: https://github.com/ALN2025/UCS_APK** 
---- 
-# Sistema de Gerenciamento UCS - P.I_SV-III-B
-
-[![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue.svg)](https://www.mysql.com/)
-[![Maven](https://img.shields.io/badge/Maven-Build-brightgreen.svg)](https://maven.apache.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-
-## 📋 Descrição
-📋 Sobre o Projeto
-Sistema desktop para gerenciamento de vendas, produtos e usuários, desenvolvido em Java (Swing) com persistência em banco de dados relacional (MySQL ou PostgreSQL). Projeto acadêmico UCS.
-
-Repositório oficial: [https://github.com/ALN2025/P.I_SV-III-B](https://github.com/ALN2025/P.I_SV-III-B)
-
 --- 
 
 ## 📋 Sobre o Projeto
