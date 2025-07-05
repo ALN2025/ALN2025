@@ -139,7 +139,32 @@ Este projeto foi desenvolvido e adaptado por mim como parte da disciplina de An�
 Repositório oficial: [https://github.com/ALN2025/P.I-ucs-etapa1-III-B](https://github.com/ALN2025/P.I-ucs-etapa1-III-B)
 
 ---
+## 📋 Sobre o Projeto
+![Java 8](https://img.shields.io/badge/Java-8-orange) ![Status](https://img.shields.io/badge/Status-Development-blue) ![License](https://img.shields.io/badge/License-UCS_License-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![pgAdmin 4](https://img.shields.io/badge/pgAdmin4-23211F?style=for-the-badge&logo=pgadmin4&logoColor=white)
 
+# VSCode Project Etapa 2 - Sistema Refatorado
+
+## Descrição do Projeto
+
+Este é o projeto da **segunda etapa** do trabalho de Análise e Desenvolvimento de Sistemas da UCS. O sistema foi refatorado implementando as melhorias propostas na primeira etapa:
+
+### ✅ Melhorias Implementadas
+
+1. **Conexão com Múltiplos SGBDs** - Padrão Factory Method
+2. **Sistema de Paginação** - Controle de navegação de dados
+3. **Interface Gráfica** - JavaFX com formulários interativos
+
+## Arquitetura do Sistema
+
+### Padrões de Projeto Utilizados
+
+- **Factory Method**: Para criar implementações específicas de banco de dados
+- **DAO (Data Access Object)**: Para abstrair o acesso aos dados
+- **MVC**: Separação entre Modelo, Visão e Controle
+
+Repositório oficial: [https://github.com/ALN2025/P.I-ucs-etapa2-III-B](https://github.com/ALN2025/P.I-ucs-etapa2-III-B)
+
+---
 # L2jALN - Lineage 2 Java (Source) ✨
 
 [![Java](https://img.shields.io/badge/Java-17+-blue?logo=java)]()
