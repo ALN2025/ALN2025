@@ -140,7 +140,8 @@ Repositório oficial: [https://github.com/ALN2025/P.I-ucs-etapa1-III-B](https://
 
 ---
 ## 📋 Sobre o Projeto
-![Java 8](https://img.shields.io/badge/Java-8-orange) ![Status](https://img.shields.io/badge/Status-Development-blue) ![License](https://img.shields.io/badge/License-UCS_License-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![pgAdmin 4](https://img.shields.io/badge/pgAdmin4-23211F?style=for-the-badge&logo=pgadmin4&logoColor=white)
+![Java 8](https://img.shields.io/badge/Java-8-orange) ![Status](https://img.shields.io/badge/Status-Development-blue) ![License](https://img.shields.io/badge/License-UCS_License-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![pgAdmin 4](https://img.shields.io/badge/pgAdmin4-23211F?style=for-the-badge&logo=pgadmin4&logoColor=white)
 # Sistema de Gerenciamento de Conexão com Banco de Dados PostgreSQL/MySql
 # VSCode Project Etapa 2 - Sistema Refatorado
 
