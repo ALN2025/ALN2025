@@ -1,19 +1,55 @@
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  Sou formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo SENAI e atualmente curso o <strong>3º período de Engenharia de Software</strong> na PUC Minas. <br><br>
-  Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Node.js</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
-</p>
-
-
+<!-- Gráfico de contribuições customizado (opcional) -->
 <p align="center">
-  <em>Entusiasta de <strong>tecnologia</strong> e <strong>games</strong>, com foco em desenvolvimento de sistemas e soluções inovadoras.</em><br>
-  <em>Sempre em busca de desafios e aprendizados no mundo da programação e jogos.</em>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+
+<h1>Olá, eu sou Anderson Luis!</h1>
+
+Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UCS (1 ano e 2 meses de curso).<br>
+Apaixonado por tecnologia, programação e desenvolvimento de soluções inovadoras.<br><br>
+
+<strong>Skills:</strong>
+<ul>
+  <li>Java (POO)</li>
+  <li>Android Studio</li>
+  <li>HTML, CSS, JavaScript</li>
+  <li>Banco de Dados: PostgreSQL, MySQL</li>
+  <li>Docker, Git</li>
+</ul>
+
+<strong>Experiência:</strong><br>
+Mais de 4 anos de experiência em desenvolvimento e manutenção de servidores privados do jogo <strong>Lineage 2</strong>, com uma source própria em constante evolução.<br>
+Trabalho diariamente na implementação de novas funcionalidades, correções e melhorias de performance.<br><br>
+
+<em>Transformo desafios em soluções, unindo paixão por games, tecnologia e desenvolvimento de sistemas.</em>
+
+<p>
+  <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://aocubo.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p> 
 <p align="center">
   <a href="https://www.aocubo.dev.br/portifolio/" target="_blank">
     <img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" alt="<ALN/>-inGame" width="60%" />
