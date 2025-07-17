@@ -1,7 +1,4 @@
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<!-- Gráfico de contribuições customizado (opcional) -->
+<!-- Gráfico de contribuições customizado (Pac-Man) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
@@ -10,45 +7,32 @@
   </picture>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+<h1 align="center" style="font-size: 2.8em; margin-top: 40px;">Anderson Luis</h1>
 
-<h1>Olá, eu sou Anderson Luis!</h1>
-
+<p align="center">
 Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UCS (1 ano e 2 meses de curso).<br>
 Apaixonado por tecnologia, programação e desenvolvimento de soluções inovadoras.<br><br>
+</p>
 
-<strong>Skills:</strong>
-<ul>
-  <li>Java (POO)</li>
-  <li>Android Studio</li>
-  <li>HTML, CSS, JavaScript</li>
-  <li>Banco de Dados: PostgreSQL, MySQL</li>
-  <li>Docker, Git</li>
-</ul>
-
+<p align="center">
 <strong>Experiência:</strong><br>
 Mais de 4 anos de experiência em desenvolvimento e manutenção de servidores privados do jogo <strong>Lineage 2</strong>, com uma source própria em constante evolução.<br>
 Trabalho diariamente na implementação de novas funcionalidades, correções e melhorias de performance.<br><br>
-
 <em>Transformo desafios em soluções, unindo paixão por games, tecnologia e desenvolvimento de sistemas.</em>
+</p>
 
-<p>
+<p align="center" style="margin-top: 40px;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://aocubo.dev.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p> 
 </p> 
 <p align="center">
   <a href="https://www.aocubo.dev.br/portifolio/" target="_blank">
