@@ -7,7 +7,12 @@
   </picture>
 </p>
 
-<h1 align="center" style="font-size:3em; margin-bottom:0;">Anderson Luis</h1>
+<h1 align="center" style="font-size:3em; margin-bottom:0; letter-spacing:2px; text-shadow: 2px 2px 8px #000; color:#FFD700;">Anderson Luis do Nascimento</h1>
+
+<p align="center" style="font-size:1.5em; font-weight:bold; color:#8be9fd; margin-top:0; margin-bottom: 20px; letter-spacing:1px;">
+  DEV  ⩿ A.L.N/⪀
+</p>
+
 <p align="center" style="font-size:1.3em; color:#8be9fd; margin-top:0;">
   <b>Desenvolvedor Full Stack | Game Server Specialist | Apaixonado por Tecnologia</b>
 </p>
