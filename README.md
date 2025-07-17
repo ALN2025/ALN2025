@@ -239,3 +239,9 @@ Dev ⩿ A.L.N/⪀
 
 <p align="center"><strong>🚀 Obrigado por visitar meu perfil!</strong></p>
 <p align="center">Vamos juntos inovar e transformar ideias em realidade.</p>
+<div align="center">
+
+    <img src="https://komarev.com/ghpvc/?username=arturbomtempo-dev&color=67cb57" alt="Profile views" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
