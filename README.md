@@ -115,28 +115,41 @@ Trabalho diariamente na implementação de novas funcionalidades, correções e 
   </a>
 </p>
 
-## 🚀 Linguagens que mais utilizo
-
-
-[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash)](https://github.com/ALN2025)
-
-### Back-end
-
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs)](https://github.com/ALN2025)
-
-### Front-end
-
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass,styledcomponents)](https://github.com/ALN2025)
-
-### Database
-
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase)](https://github.com/ALN2025)
-
-### Mobile
-
-[![Mobile Development Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://github.com/ALN2025)
+## 🚀 Linguagens e Tecnologias que mais utilizo
 
 ---
+
+### 🛠️ Ferramentas & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash,linux,heroku,netlify,azure,aws,gcp" />
+</p>
+
+### 🖥️ Back-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs,ruby,go,graphql,fastapi,laravel" />
+</p>
+
+### 🎨 Front-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass,styledcomponents,angular,vue,redux,materialui" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase,redis,oracle,realm" />
+</p>
+
+### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,swift,kotlin,flutter,dart,reactnative" />
+</p>
+
+### ☁️ Cloud & Outros
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,netlify,vercel,cloudflare,nginx" />
+</p>
+
+--- 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
