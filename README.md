@@ -90,23 +90,31 @@
 ## 🚀 Linguagens que mais utilizo
 
 
-[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash)](https://github.com/arturbomtempo-dev)
+[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash)](https://github.com/ALN2025)
 
 ### Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs)](https://github.com/arturbomtempo-dev)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs)](https://github.com/ALN2025)
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass,styledcomponents)](https://github.com/arturbomtempo-dev)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass,styledcomponents)](https://github.com/ALN2025)
 
 ### Database
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase)](https://github.com/arturbomtempo-dev)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase)](https://github.com/ALN2025)
 
 ### Mobile
 
-[![Mobile Development Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://github.com/arturbomtempo-dev)
+[![Mobile Development Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://github.com/ALN2025)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
