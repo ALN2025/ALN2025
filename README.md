@@ -7,18 +7,21 @@
   </picture>
 </p>
 
-<h1 align="center" style="font-size: 2.8em; margin-top: 40px;">Anderson Luis</h1>
-
-<p align="center">
-Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UCS (1 ano e 2 meses de curso).<br>
-Apaixonado por tecnologia, programação e desenvolvimento de soluções inovadoras.<br><br>
+<h1 align="center" style="font-size:3em; margin-bottom:0;">Anderson Luis</h1>
+<p align="center" style="font-size:1.3em; color:#8be9fd; margin-top:0;">
+  <b>Desenvolvedor Full Stack | Game Server Specialist | Apaixonado por Tecnologia</b>
 </p>
 
-<p align="center">
-<strong>Experiência:</strong><br>
-Mais de 4 anos de experiência em desenvolvimento e manutenção de servidores privados do jogo <strong>Lineage 2</strong>, com uma source própria em constante evolução.<br>
-Trabalho diariamente na implementação de novas funcionalidades, correções e melhorias de performance.<br><br>
-<em>Transformo desafios em soluções, unindo paixão por games, tecnologia e desenvolvimento de sistemas.</em>
+<hr style="border: 1px solid #444; width: 60%; margin: 20px auto;">
+
+<p align="center" style="font-size:1.1em;">
+  🎓 <b>Graduando em <span style='color:#50fa7b;'>Análise e Desenvolvimento de Sistemas</span> pela UCS</b> <br>
+  <i>Com mais de 4 anos de experiência em desenvolvimento de servidores privados do jogo <b>Lineage 2</b>, sou movido por desafios e inovação.</i>
+</p>
+
+<p align="center" style="font-size:1.1em;">
+  🚀 <b>Transformo ideias em soluções reais</b> — seja criando sistemas robustos, otimizando performance ou liderando projetos de games.<br>
+  <i>Minha missão é unir paixão por games, tecnologia e desenvolvimento para entregar resultados de alto impacto.</i>
 </p>
 
 <p align="center" style="margin-top: 40px;">
@@ -32,15 +35,7 @@ Trabalho diariamente na implementação de novas funcionalidades, correções e 
   <a href="https://aocubo.dev.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p> 
-</p> 
-<p align="center">
-  <a href="https://www.aocubo.dev.br/portifolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" alt="<ALN/>-inGame" width="60%" />
-  </a>
 </p>
-
----
 
 ## 🌐 AO CUBO
 
