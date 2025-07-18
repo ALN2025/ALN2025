@@ -46,30 +46,23 @@
 
 ## 📈 Estatísticas GitHub
 
-<p align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=ALN2025&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-</p>
+## ⭐️ &nbsp;GitHub Stats
 
-<p align="center">
-  <!-- Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/ALN2025">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&langs_count=6&theme=merko"/>
+  </a>
+</div>
 
-<p align="center">
-  <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ALN2025&theme=merko&hide_border=true"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=merko&no-frame=true&no-bg=true&margin-w=4"/>
+</div>
 
-<p align="center">
-  <!-- Contribuição em Gráfico -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&theme=highcontrast&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=highcontrast&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&theme=merko&hide_border=true&area=true"/>
+</div>
 
 ---
 
