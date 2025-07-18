@@ -11,7 +11,7 @@
 
 <!-- Mensagem de Boas-vindas Animada -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=OLA,+SEJAM+BEM-VINDOS!+:%29;MEU+NOME+É+ANDERSON+NASCIMENTO;ESTUDANTE+DE+ADS+NA+UCS;DESENVOLVEDOR+DE+SERVIDORES+LINEAGE+2;APAIXONADO+POR+TECNOLOGIA+E+INOVAÇÃO;SEJA+BEM-VINDO+À+MINHA+ORGANIZAÇÃO!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=OLA,+SEJAM+BEM-VINDOS!+:%29;MEU+NOME+É+ANDERSON+NASCIMENTO;ESTUDANTE+DE+ADS+NA+UCS;DESENVOLVEDOR+DE+SERVIDORES+LINEAGE+2;APAIXONADO+POR+TECNOLOGIA+E+INOVAÇÃO;SEJA+BEM-VINDO+AO+MEU+PERFIL!+🚀" alt="Typing SVG" />
 </div>
 
 <p align="center" style="font-size:1.5em; font-weight:bold; color:#8be9fd; margin-top:0; margin-bottom: 20px; letter-spacing:1px;">
