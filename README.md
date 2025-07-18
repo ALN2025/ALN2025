@@ -1,13 +1,12 @@
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"> Welcome to my profile!
-      </h1>
-    </summary>
-  </ul>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Artur+Bomtempo;I'm+a+Software+Engineering+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arturbomtempo-dev&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/arturbomtempo-dev/)
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=arturbomtempo-dev&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+</p>
 <!-- Gráfico de contribuições customizado (Pac-Man) -->
 <p align="center">
   <picture>
