@@ -14,8 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=OLA,+SEJAM+BEM-VINDOS!+:%29;MEU+NOME+É+ANDERSON+NASCIMENTO;ESTUDANTE+DE+ADS+NA+UCS;DESENVOLVEDOR+DE+SERVIDORES+LINEAGE+2;APAIXONADO+POR+TECNOLOGIA+E+INOVAÇÃO;SEJA+BEM-VINDO+À+MINHA+ORGANIZAÇÃO!+🚀" alt="Typing SVG" />
 </div>
 
-<h1 align="center" style="font-size:3em; margin-bottom:0; letter-spacing:2px; text-shadow: 2px 2px 8px #000; color:#FFD700;">Anderson Luis do Nascimento</h1>
-
 <p align="center" style="font-size:1.5em; font-weight:bold; color:#8be9fd; margin-top:0; margin-bottom: 20px; letter-spacing:1px;">
   DEV  ⩿ A.L.N/⪀
 </p>
