@@ -49,9 +49,7 @@
 
 ---
 
-## 📈 Estatísticas GitHub
-
-## ⭐️ &nbsp;GitHub Stats
+## 📈 Estatísticas GitHub  ⭐️ 
 
 <div align="center">
   <a href="https://github.com/ALN2025">
