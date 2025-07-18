@@ -1,6 +1,55 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=OLA,+MEU+NOME+É+ANDERSON+NASCIMENTO;I'm+a+Software+Engineering+student;I’m+a+technology+content+creator;SEJA+BEN-VINDOS!+:%29)](https://git.io/typing-svg)
+<!-- Gráfico de contribuições customizado (Pac-Man) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<!-- Mensagem de Boas-vindas Animada -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=OLA,+SEJAM+BEM-VINDOS!+:%29;MEU+NOME+É+ANDERSON+NASCIMENTO;ESTUDANTE+DE+ADS+NA+UCS;DESENVOLVEDOR+DE+SERVIDORES+LINEAGE+2;APAIXONADO+POR+TECNOLOGIA+E+INOVAÇÃO;SEJA+BEM-VINDO+À+MINHA+ORGANIZAÇÃO!+🚀" alt="Typing SVG" />
+</div>
+
+<h1 align="center" style="font-size:3em; margin-bottom:0; letter-spacing:2px; text-shadow: 2px 2px 8px #000; color:#FFD700;">Anderson Luis do Nascimento</h1>
+
+<p align="center" style="font-size:1.5em; font-weight:bold; color:#8be9fd; margin-top:0; margin-bottom: 20px; letter-spacing:1px;">
+  DEV  ⩿ A.L.N/⪀
+</p>
+
+<p align="center" style="font-size:1.3em; color:#8be9fd; margin-top:0;">
+  <b>Desenvolvedor Full Stack | Game Server Specialist | Apaixonado por Tecnologia</b>
+</p>
+
+<hr style="border: 1px solid #444; width: 60%; margin: 20px auto;">
+
+<p align="center" style="font-size:1.1em;">
+  🎓 <b>Graduando em <span style='color:#50fa7b;'>Análise e Desenvolvimento de Sistemas</span> pela UCS</b> <br>
+  <i>Com mais de 4 anos de experiência em desenvolvimento de servidores privados do jogo <b>Lineage 2</b>, sou movido por desafios e inovação.</i>
+</p>
+
+<p align="center" style="font-size:1.1em;">
+  🚀 <b>Transformo ideias em soluções reais</b> — seja criando sistemas robustos, otimizando performance ou liderando projetos de games.<br>
+  <i>Minha missão é unir paixão por games, tecnologia e desenvolvimento para entregar resultados de alto impacto.</i>
+</p>
+
+<p align="center" style="margin-top: 40px;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://aocubo.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 </p>
 <!-- Gráfico de contribuições customizado (Pac-Man) -->
