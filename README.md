@@ -50,7 +50,7 @@
 
 | | |
 |---|---|
-| **Pack** | Servidor **Lineage 2 Java** — pack completa para produção: proteções, eventos, configs e conteúdo custom. **Repositório público:** [**github.com/ALN2025/pack_L2JALN**](https://github.com/ALN2025/pack_L2JALN) |
+| **Pack** | Servidor **Lineage 2 Java** — pack completa para produção: proteções, eventos, configs e conteúdo custom. **Repositório público:** [**github.com/ALN2025/pack_L2JALN**](https://github.com/ALN2025/pack_L2JALN/releases/new)|
 | **Patch** | Atualizações para **jogadores** (HTML, multisell, dados, etc.) em **`.zip`** — distribuição pelo servidor/site/Discord; mantém a mesma estrutura da pack ao extrair. |
 
 > O **código-fonte** do núcleo L2jALN permanece em **repositório privado**. Aqui no perfil o foco público é a **pack** e o **patch** para clientes e administradores.
