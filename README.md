@@ -1,69 +1,184 @@
-# Post L2JBrasil — Pack + Patch L2J ALN v1.0.0
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
 
-## Nota rápida (para você)
+<!-- Gráfico de contribuições (Pac-Man) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
-| O que é | Valor no seu projeto |
-|--------|----------------------|
-| **Origem do código** | **Clean da comunidade L2jBrasil** (ponto de partida; evolução própria desde então) |
-| **Base Acis (se usar no título)** | **382** — só se for o identificador do seu binário/patch; não é protocolo de rede |
-| **Protocolo de cliente (gameserver)** | **730 a 746** (`MinProtocolRevision` / `MaxProtocolRevision` em `server.properties`) |
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=OLA,+SEJAM+BEM-VINDOS!+:%29;MEU+NOME+É+ANDERSON+NASCIMENTO;ESTUDANTE+DE+ADS+NA+UCS;DESENVOLVEDOR+DE+SERVIDORES+LINEAGE+2;APAIXONADO+POR+TECNOLOGIA+E+INOVAÇÃO;SEJA+BEM-VINDO+AO+MEU+PERFIL!+🚀" alt="Typing SVG" />
+</div>
 
-**382** (se aparecer no título) identifica revisão Acis/base do pacote; **730–746** é a faixa de **revisão de protocolo** do cliente L2. **L2JALN** é o padrão de projeto (pacotes, nomes, estrutura) para tudo o que implementas em cima da core refatorada.
+<p align="center"><b style="font-size:1.5em;">DEV ⩿ A.L.N/⪀</b></p>
+<p align="center"><b>Desenvolvedor Full Stack | Game Server Specialist | Apaixonado por Tecnologia</b></p>
 
----
+<hr style="border: 1px solid #444; width: 60%; margin: 20px auto;">
 
-## Título do tópico
+<p align="center">
+  🎓 <b>Graduando em Análise e Desenvolvimento de Sistemas pela UCS</b><br>
+  <i>Mais de 4 anos com servidores privados de <b>Lineage 2</b> — foco em desafio, performance e inovação.</i>
+</p>
+<p align="center">
+  🚀 <b>Ideias em soluções reais</b> — sistemas robustos, otimização e projetos de games com impacto.
+</p>
 
-`Pack + Patch — L2J ALN v1.0.0` *(opcional no título: `· origem L2jBrasil clean · Acis 382` — ajusta ao que realmente divulgas)*  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px">
+</p>
 
----
-
-## Corpo do post (copiar e colar)
-
-Prezados,
-
-Compartilho a **release v1.0.0** do projeto **L2J ALN**, com **pack e patch de atualização**, publicada para download e testes conforme os termos indicados na própria release.
-
-**Origem e evolução**  
-O trabalho partiu de uma **source clean disponibilizada pela comunidade L2jBrasil**. Desde então a **core foi refatorada** e o projeto deixou de seguir o padrão genérico **L2J** para o padrão próprio **L2JALN**: nomenclatura de pacotes, organização de ficheiros e convenções alinhadas à marca do servidor. **Cada módulo ou funcionalidade nova** é integrada nesse padrão — o que implica **ajustar nomes, ficheiros e estrutura** sempre que se implementa algo, de forma a manter o código consistente com o ecossistema ALN (trabalho adicional face a um fork “só com patches”).
-
-**Escopo do repositório**  
-O GitHub está organizado para distribuir **artefatos da release** (pacotes, patch, documentação de instalação quando aplicável). O **código-fonte completo** do projeto **não está disponível** no repositório: trata-se de trabalho proprietário que pretendo evoluir como **produto comercial** no futuro.
-
-**Compatibilidade (referência)**  
-Servidor configurado para clientes na faixa de **revisão de protocolo 730 a 746** (conferir no `server.properties` do pacote distribuído). O cliente deve estar alinhado a essa faixa; não confundir com **382** (revisão Acis/base do pack, se aplicável), que **não** é o número de protocolo de rede.
-
-**Build (referência interna)**  
-**JDK 11** para compilação do código-fonte interno; o conteúdo entregue na release segue o que estiver documentado no pacote.
-
-**Download**  
-[Pack ALN — Patch — v1.0.0](https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0)
-
-Agradeço o interesse da comunidade; críticas e relatórios de teste sobre o pacote publicado são bem-vindos.
-
-**Contato (licenciamento, customização ou uso comercial)**  
-Discord: **@de.aln**
-
-Atenciosamente,
-
-**Dev ⩿ A.L.N/⪀**  
-https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0
+<p align="center">
+  <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://aocubo.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
 
 ---
 
-## Bloco só de contato (prompt “bonito” para bio / assinatura / DM)
+## ⭐ L2J ALN — destaque
 
-```
-📩 Contato — L2J ALN
-Propostas de licenciamento, customização ou parcerias comerciais:
-Discord → @de.aln
+<p align="center">
+  <a href="https://github.com/ALN2025/pack_L2JALN"><img src="https://img.shields.io/badge/Pack_L2JALN-Repositório-181717?style=for-the-badge&logo=github" alt="Pack"/></a>
+  <img src="https://img.shields.io/badge/Patch_cliente-ZIP_de_atualização-67cb57?style=for-the-badge&logo=files" alt="Patch"/>
+</p>
 
-Release v1.0.0: https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0
-— Dev ⩿ A.L.N/⪀
-```
+| | |
+|---|---|
+| **Pack** | Servidor **Lineage 2 Java** — pack completa para produção: proteções, eventos, configs e conteúdo custom. **Repositório público:** [**github.com/ALN2025/pack_L2JALN**][(https://github.com/ALN2025/pack_L2JALN/releases/new)](https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0))|
+| **Patch** | Atualizações para **jogadores** (HTML, multisell, dados, etc.) em **`.zip`** — distribuição pelo servidor/site/Discord; mantém a mesma estrutura da pack ao extrair. |
 
-Versão minimalista:
+> O **código-fonte** do núcleo L2jALN permanece em **repositório privado**. Aqui no perfil o foco público é a **pack** e o **patch** para clientes e administradores.
 
-```
-@de.aln · L2J ALN · https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0
-```
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+  <a href="https://github.com/ALN2025">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&langs_count=6&theme=merko" alt="Top langs"/>
+  </a>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ALN2025&theme=merko&hide_border=true" alt="Streak"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=merko&no-frame=true&no-bg=true&margin-w=4" alt="Trophy"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&theme=merko&hide_border=true&area=true" alt="Activity"/>
+</div>
+
+---
+
+## 🔗 Currículo & links
+
+<p align="center">
+  <a href="https://www.aocubo.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Site-aocubo.dev.br-67cb57?style=for-the-badge" alt="Site"/>
+  </a>
+</p>
+
+---
+
+## 🌍 Conecte-se
+
+| | |
+|---|---|
+| 🌐 Site | [aocubo.dev.br](https://www.aocubo.dev.br) |
+| ▶️ YouTube | [@anderson.L2JaCis](https://www.youtube.com/@anderson.L2JaCis) |
+| 📘 Facebook | [anderson.nascimento](https://www.facebook.com/anderson.nascimento.979538) |
+| 🔗 LinkedIn | [anderson-nascimento](https://www.linkedin.com/in/anderson-nascimento-22305931b) |
+| 💬 WhatsApp | [Grupo](https://chat.whatsapp.com/C5Z4H7funYGGc9n33Zo2q6) |
+
+*(Adicione Instagram/Discord aqui quando quiser publicar os links.)*
+
+---
+
+## 🕒 WakaTime
+
+<p align="center">
+  <a href="https://wakatime.com/@ALN2025">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ALN2025&theme=highcontrast&hide_border=true" alt="WakaTime"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Stack (visão geral)
+
+### 🛠️ Ferramentas & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,maven,linux,nginx" alt="DevOps"/>
+</p>
+
+### 🖥️ Back-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,python,spring,maven" alt="Back-end"/>
+</p>
+
+### 🎨 Front-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" alt="Front-end"/>
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" alt="DB"/>
+</p>
+
+---
+
+### 🌐 AO CUBO — site
+
+🔗 [aocubo.dev.br](https://www.aocubo.dev.br) — licenciamento, comentários e informações gerais.
+
+---
+
+## 📚 Projetos acadêmicos (UCS — ADS)
+
+Trabalhos da **Universidade de Caxias do Sul (UCS)** em Java, PostgreSQL/MySQL, Maven e boas práticas (DAO, POJO, MVC, Factory).
+
+### Etapa 1 — sistema original (PostgreSQL)
+
+![Java](https://img.shields.io/badge/Java-8-orange) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)
+
+Conexão com **PostgreSQL**, padrões **DAO** e **POJO**. Base inicial fornecida pela instituição.
+
+**Repositório:** [P.I-ucs-etapa1-III-B](https://github.com/ALN2025/P.I-ucs-etapa1-III-B)
+
+---
+
+### Etapa 2 — sistema refatorado (PostgreSQL / MySQL)
+
+![Java](https://img.shields.io/badge/Java-8-orange) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)
+
+Melhorias: **múltiplos SGBDs (Factory Method)**, **paginação**, interface **JavaFX**, arquitetura **MVC** + **DAO**.
+
+**Repositório:** [P.I-ucs-etapa2-III-B](https://github.com/ALN2025/P.I-ucs-etapa2-III-B)
+
+---
+
+## ⭐ Contribuições
+
+<p align="center">
+  <a href="https://github.com/ALN2025">
+    <img src="https://img.shields.io/badge/GitHub-ALN2025-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center"><strong>🚀 Obrigado por visitar meu perfil!</strong><br/>Vamos inovar e transformar ideias em realidade.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
