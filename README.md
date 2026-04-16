@@ -1,8 +1,8 @@
-<!-- Git 5 — Banner CMD abaixo usa imagem embutida (data URI) para aparecer sem ficheiro no GitHub. O SVG editável está em profile-readme-assets/cmd-window-banner.svg -->
+<!-- GitHub BLOQUEIA imagens data: no README do perfil — usar ficheiro no repo ALN2025/ALN2025 (ver pasta profile-readme-assets no teu PC). -->
 
-<!-- Janela estilo Prompt de Comando: data URI (não depende de raw.githubusercontent). -->
+<!-- Janela CMD: tem de existir este ficheiro no MESMO repo: profile-readme-assets/cmd-window-banner.svg -->
 <p align="center">
-  <img width="92%" alt="Prompt de Comando - estilo janela CMD" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20900%20132%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22tb%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233d3d3d%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%232d2d2d%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20x%3D%221%22%20y%3D%221%22%20width%3D%22898%22%20height%3D%22130%22%20rx%3D%226%22%20fill%3D%22%230c0c0c%22%20stroke%3D%22%23555%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%222%22%20y%3D%222%22%20width%3D%22896%22%20height%3D%2234%22%20rx%3D%224%22%20fill%3D%22url(%23tb)%22%2F%3E%3Crect%20x%3D%2212%22%20y%3D%2210%22%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%230c0c0c%22%20stroke%3D%22%23ccc%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%2214%22%20y%3D%2223%22%20fill%3D%22%230f0%22%20font-family%3D%22Consolas%2Cmonospace%22%20font-size%3D%2211%22%3E%26gt%3B_%3C%2Ftext%3E%3Ctext%20x%3D%2236%22%20y%3D%2223%22%20fill%3D%22%23e4e4e4%22%20font-family%3D%22Segoe%20UI%2CTahoma%2Csans-serif%22%20font-size%3D%2213%22%3EAdministrador%3A%20Prompt%20de%20Comando%20-%20ALN2025%3C%2Ftext%3E%3Ctext%20x%3D%22808%22%20y%3D%2223%22%20fill%3D%22%23ccc%22%20font-family%3D%22Segoe%20UI%2Csans-serif%22%20font-size%3D%2214%22%3E%26%23x2212%3B%3C%2Ftext%3E%3Ctext%20x%3D%22840%22%20y%3D%2221%22%20fill%3D%22%23ccc%22%20font-family%3D%22Segoe%20UI%2Csans-serif%22%20font-size%3D%2211%22%3E%26%23x25A1%3B%3C%2Ftext%3E%3Crect%20x%3D%22866%22%20y%3D%220%22%20width%3D%2234%22%20height%3D%2234%22%20fill%3D%22%23c42b1c%22%2F%3E%3Ctext%20x%3D%22878%22%20y%3D%2223%22%20fill%3D%22%23fff%22%20font-family%3D%22Segoe%20UI%2Csans-serif%22%20font-size%3D%2214%22%3E%26%23x00D7%3B%3C%2Ftext%3E%3Crect%20x%3D%222%22%20y%3D%2236%22%20width%3D%22896%22%20height%3D%2294%22%20fill%3D%22%230c0c0c%22%2F%3E%3Ctext%20x%3D%2214%22%20y%3D%2258%22%20fill%3D%22%23ccc%22%20font-family%3D%22Consolas%2Cmonospace%22%20font-size%3D%2213%22%3EMicrosoft%20Windows%20%5BVersion%2010.0.x%5D%3C%2Ftext%3E%3Ctext%20x%3D%2214%22%20y%3D%2278%22%20fill%3D%22%23ccc%22%20font-family%3D%22Consolas%2Cmonospace%22%20font-size%3D%2212%22%3E(c)%20Microsoft%20Corporation.%3C%2Ftext%3E%3Ctext%20x%3D%2214%22%20y%3D%22108%22%20fill%3D%22%230f0%22%20font-family%3D%22Consolas%2Cmonospace%22%20font-size%3D%2214%22%3EC%3A%5CUsers%5CALN2025%26gt%3B%3Ctspan%20fill%3D%22%230f0%22%3E_%3C%2Ftspan%3E%3C%2Ftext%3E%3C%2Fsvg%3E"/>
+  <img width="92%" alt="Prompt de Comando - estilo janela CMD" src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-window-banner.svg"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/168px-Tux.svg.png" width="120" alt="Tux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="120" height="120" alt="Linux"/>
 </p>
 
 <p align="center">
