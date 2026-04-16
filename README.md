@@ -1,103 +1,104 @@
-<!-- ALN2025 — README alternativo (Git 2). Troca com PROFILE_README_git1.md no repositório do perfil quando quiseres outro visual. -->
+<!-- ALN2025 — README alternativo (Git 3 · synthwave). Troca com git1 ou git2 no repositório do perfil. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0369a1&height=130&section=header&text=ALN2025&fontSize=42&fontColor=fff&fontAlignY=40" alt="ALN2025 header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b213a,100:ff3864&height=125&section=header&text=ALN2025&fontSize=44&fontColor=fff&fontAlignY=38" alt="header"/>
+</p>
+
+<p align="center"><sub>· · · game server · full stack · UCS · · ·</sub></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=28&duration=2500&pause=600&color=FF7EDB&center=true&vCenter=true&width=920&lines=Anderson+Nascimento;Lineage+2+Java+%C2%B7+packs+%C2%B7+ferramentas+abertas;Sem+medo+de+infra%2C+back-end+e+interface" alt="typing"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Anderson+Nascimento;ADS+%E2%80%94+UCS+%7C+Lineage+2+Java+%7C+Full+Stack;Game+server%2C+back-end+e+ferramentas+pra+comunidade" alt="typing"/>
-</p>
-
-<p align="center">
-  <sub><b>DEV ⩿ A.L.N / ⪀</b> · servidor privado L2 · performance · conteúdo custom</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ALN2025"><img src="https://img.shields.io/badge/GitHub-ALN2025-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.aocubo.dev.br"><img src="https://img.shields.io/badge/Site-aocubo.dev.br-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site"/></a>
-  <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-<br/>
-
-> **Sobre ·** Graduando em **ADS** (UCS). Há anos em **servidores Lineage 2** — desafio, otimização e projetos que viram solução (pack, ferramentas, integração). Foco em **Java**, infra e experiência jogável.
-
-<br/>
-
-### Mapa rápido
-
-| Área | Link / nota |
-|------|-------------|
-| **Pack L2JALN** | [**Repositório**](https://github.com/ALN2025/pack_L2JALN) · [**Release v1.0.0**](https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0) |
-| **Patch (cliente)** | Distribuição em **`.zip`** (HTML, multisell, dados…) — mesma lógica da pack ao extrair |
-| **XDAT L2JA.L.N** | [**editor-xdat-l2jaln**](https://github.com/ALN2025/editor-xdat-l2jaln) — editor **Interface.xdat** empacotado (**bin/lib** + `.bat`); JDK **8 + JavaFX** |
-| **Núcleo L2jALN** | *Source* em repositório **privado**; no GitHub público: pack, patch e ferramentas |
-
-<br/>
-
-### Stack (visão única)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,git,github,nodejs,react,next,tailwind,mysql,postgresql,redis,linux,nginx,vscode,idea&perline=9&theme=dark" alt="Stack"/>
+  <a href="https://github.com/ALN2025"><img src="https://img.shields.io/badge/profile-ALN2025-2b213a?style=for-the-badge&logo=github&logoColor=ff7edb" alt="GitHub"/></a>
+  <a href="https://www.aocubo.dev.br"><img src="https://img.shields.io/badge/web-aocubo.dev.br-ff3864?style=for-the-badge&logo=firefox&logoColor=white" alt="Site"/></a>
+  <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b"><img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <br/>
 
-### GitHub — números & ritmo
+<p align="center"><i>“Servidor privado L2, performance e conteúdo custom — <b>DEV ⩿ A.L.N / ⪀</b>”</i></p>
+
+<p align="center">Graduando <b>ADS · UCS</b> · anos em comunidade L2 · Java, deploy e o que o jogador sente na prática.</p>
+
+<br/>
+
+<details open>
+<summary><b>🎯 Destaques públicos</b> <sub>(clique para recolher)</sub></summary>
+
+<br/>
+
+**Pack L2JALN** — servidor **Lineage 2 Java** (produção, eventos, configs, custom).  
+→ Repo: [pack_L2JALN](https://github.com/ALN2025/pack_L2JALN) · Release: [v1.0.0](https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0)
+
+**Patch (jogadores)** — atualizações em **`.zip`** (HTML, multisell, dados…), mesma lógica da pack ao extrair.
+
+**XDAT · L2JA.L.N** — editor **Interface.xdat** já empacotado (`bin` / `lib` / `.bat`).  
+→ Repo: [editor-xdat-l2jaln](https://github.com/ALN2025/editor-xdat-l2jaln) · precisa **JDK 8 + JavaFX**.
+
+*Núcleo L2jALN: source em repo **privado**; aqui ficam pack, patch e ferramentas.*
+
+<br/>
+</details>
+
+<br/>
+
+### ⚡ Stack em uma faixa
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,git,github,nodejs,react,next,tailwind,mysql,postgresql,redis,linux,nginx,vscode,idea&perline=8&theme=dark" alt="stack"/>
+</p>
+
+<br/>
+
+### 📡 Métricas (GitHub)
 
 <p align="center">
   <a href="https://github.com/ALN2025">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&icon_color=38bdf8&ring_color=38bdf8" alt="stats"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="langs"/>
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true&border_radius=12&icon_color=ff7edb&ring_color=ff3864" alt="stats"/>
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&langs_count=7&theme=synthwave&hide_border=true&border_radius=12" alt="langs"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ALN2025&theme=tokyonight&hide_border=true&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8" alt="streak"/>
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=dracula&no-frame=true&margin-w=4&column=6" alt="trophies"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ALN2025&theme=synthwave&hide_border=true&ring=ff7edb&fire=ff3864" alt="streak"/>
+  <img height="160" src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=radical&no-frame=true&margin-w=4&column=6" alt="trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&hide_border=true&area=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f472b6&area_color=1e3a8a&title_color=e2e8f0" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&hide_border=true&area=true&bg_color=2b213a&color=ff7edb&line=ff3864&point=fff&area_color=441b3a&title_color=e9d5ff" alt="activity"/>
 </p>
 
 <br/>
 
-### WakaTime
+### ⏱ WakaTime
 
 <p align="center">
   <a href="https://wakatime.com/@ALN2025">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ALN2025&theme=tokyonight&hide_border=true&border_radius=10" alt="WakaTime"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ALN2025&theme=synthwave&hide_border=true&border_radius=12" alt="WakaTime"/>
   </a>
 </p>
 
 <br/>
 
-### UCS — projetos (ADS)
+### 🎓 UCS · ADS
 
-| Etapa | Stack | Repo |
-|-------|--------|------|
-| **1** — PostgreSQL, DAO/POJO | Java · PostgreSQL · Maven | [P.I-ucs-etapa1-III-B](https://github.com/ALN2025/P.I-ucs-etapa1-III-B) |
-| **2** — Factory, MVC, JavaFX | Java · PostgreSQL/MySQL · Maven | [P.I-ucs-etapa2-III-B](https://github.com/ALN2025/P.I-ucs-etapa2-III-B) |
+- **Etapa 1** (PostgreSQL, DAO/POJO): [P.I-ucs-etapa1-III-B](https://github.com/ALN2025/P.I-ucs-etapa1-III-B)
+- **Etapa 2** (Factory, MVC, JavaFX, PostgreSQL/MySQL): [P.I-ucs-etapa2-III-B](https://github.com/ALN2025/P.I-ucs-etapa2-III-B)
 
 <br/>
 
-### Onde me achar
+### 🌐 Onde achar
 
-| | |
-|:--|:--|
-| Site | [aocubo.dev.br](https://www.aocubo.dev.br) |
-| YouTube | [@anderson.L2JaCis](https://www.youtube.com/@anderson.L2JaCis) |
-| Facebook | [anderson.nascimento](https://www.facebook.com/anderson.nascimento.979538) |
-| LinkedIn | [anderson-nascimento](https://www.linkedin.com/in/anderson-nascimento-22305931b) |
-| WhatsApp | [Grupo](https://chat.whatsapp.com/C5Z4H7funYGGc9n33Zo2q6) |
+`Site` [aocubo.dev.br](https://www.aocubo.dev.br) · `YT` [@anderson.L2JaCis](https://www.youtube.com/@anderson.L2JaCis) · `FB` [perfil](https://www.facebook.com/anderson.nascimento.979538) · `WA` [grupo](https://chat.whatsapp.com/C5Z4H7funYGGc9n33Zo2q6)
 
 <br/>
 
 <p align="center">
-  <sub>Perfil alternativo <b>Git 2</b> — visual escuro / neon · troca com <code>git1</code> quando quiseres.</sub>
+  <sub><b>Git 3</b> · visual synthwave / retro · alterna com <code>git1</code> (verde clean) e <code>git2</code> (azul noite)</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,100:0f172a&height=100&section=footer&text=Obrigado+pela+visita&fontSize=22&fontColor=fff&fontAlignY=65" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3864,100:2b213a&height=95&section=footer&text=Até+logo+%F0%9F%91%BE&fontSize=22&fontColor=fff&fontAlignY=68" alt="footer"/>
 </p>
