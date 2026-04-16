@@ -1,0 +1,36 @@
+ONDE COLOCAR OS FICHEIROS NO GITHUB (README do perfil)
+======================================================
+
+O repositorio do PERFIL tem de se chamar IGUAL ao teu user:
+  ALN2025 / ALN2025
+  (e dentro: README.md)
+
+NAO cries um repo separado "profile-readme-assets" so para o banner.
+A pasta "profile-readme-assets" e uma PASTA DENTRO de ALN2025/ALN2025.
+
+Passos no site GitHub:
+1) Abre https://github.com/ALN2025/ALN2025
+2) Add file > Upload files
+3) Arrasta a PASTA "profile-readme-assets" (com cmd-window-banner.svg la dentro)
+   OU cria a pasta ao fazer upload: profile-readme-assets/cmd-window-banner.svg
+4) Commit to main (ou master)
+
+O link da imagem no README e:
+  https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-window-banner.svg
+
+Se o teu branch for "master", troca "main" por "master" nesse URL no README.
+
+Porque o banner nao aparecia antes:
+- "data:image/svg+xml,..." e BLOQUEADO no README do perfil (GitHub mostra so o texto alt).
+- A imagem do Tux do Wikipedia as vezes falha pelo proxy; o README usa agora o icone Linux da jsDelivr (devicons).
+
+FUNDO PRETO / ASPECTO TERMINAL NO PERFIL
+----------------------------------------
+- O README NAO controla o fundo de toda a pagina do GitHub. Quem define claro/escuro e:
+  GitHub.com > foto perfil > Settings > Appearance > Theme (Dark = fundo escuro no site).
+- No README so podes:
+  - meter IMAGENS (banner CMD, capsule-render, badges) — parece janela/consola;
+  - usar blocos de codigo ``` ... ``` — no tema escuro o GitHub da fundo cinzento ao bloco;
+  - usar tabelas e texto monoespaco com `crases`.
+- Nao da para por "wallpaper" ou cor #000 em toda a largura do perfil com HTML/CSS no README
+  (o GitHub remove estilos inline na maior parte dos casos).
