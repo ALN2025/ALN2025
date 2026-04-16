@@ -1,7 +1,5 @@
-| | |
-|:---|:---|
-| ☕ | Café como variável de ambiente |
-| 💻 | L2J · Java · bash · Git |
-| 🐧 | Kali / Linux · infra |
-| 🎓 | ADS — UCS |
-| ⚡ | ALN · packs · performance |
+### ☕ Dev life · café & código
+
+🖥️ `C:\` → **Projeto L2Ja.L.N** → `pack` · `source` · **aCis**  
+⚙️ **Stack:** Java · bash · Git · Kali · Docker/MySQL  
+👨‍💻 **Perfil:** Full Stack · servidores L2J · **ADS — UCS** · ALN
