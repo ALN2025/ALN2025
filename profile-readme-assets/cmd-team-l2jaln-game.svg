@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 300" width="100%" role="img" aria-label="Team L2J-A.L.N - Game Server (Linux)">
+  <defs>
+    <linearGradient id="tbarG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="100%" stop-color="#252525"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1040" height="300" fill="#0c0c0c" stroke="#555" stroke-width="2" rx="6"/>
+  <rect x="0" y="0" width="1040" height="34" fill="url(#tbarG)" rx="6"/>
+  <text x="12" y="23" fill="#ddd" font-family="Segoe UI,Tahoma,sans-serif" font-size="13">L2J-A.L.N  Linux · Game Server (consola)</text>
+  <rect x="0" y="34" width="1040" height="266" fill="#0c0c0c"/>
+  <text xml:space="preserve" x="14" y="52" fill="#c0c0c0" font-family="Consolas,Courier New,monospace" font-size="8.5">
+    <tspan x="14" dy="0">-----------------------------------------------------------------------=[ Team-L2J-A.L.N ]</tspan>
+    <tspan x="14" dy="11">----------------------------------------=[ GAME SERVER ]---------------------------------</tspan>
+    <tspan x="14" dy="11">::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+    <tspan x="14" dy="11" fill="#7cfc00">::::::::##:::::::::#######:::::::::##:::######:::::##:::::::::::##:::::##:::::::::::::::::</tspan>
+    <tspan x="14" dy="11" fill="#7cfc00">::::::::##::::::::##:::::##::::::::##::##::::##::::##:::::::::::###::::##:::::::::::::::::</tspan>
+    <tspan x="14" dy="11" fill="#7cfc00">::::::::##:::::::::::::::##::::::::##::##::::##::::##:::::::::::####:::##:::::::::::::::::</tspan>
+    <tspan x="14" dy="11" fill="#7cfc00">::::::::##:::::::::#######:::::::::##::########::::##:::::::::::##:##::##:::::::::::::::::</tspan>
+    <tspan x="14" dy="11" fill="#7cfc00">::::::::##::::::::##:::::::::##::::##::##::::##::::##:::::##::::##:.##:##:::::::::::::::::</tspan>
+    <tspan x="14" dy="11" fill="#7cfc00">::::::::##::::::::##:::::::::##::::##::##::::##::::##:::::##::::##:::####:::::::::::::::::</tspan>
+    <tspan x="14" dy="11" fill="#7cfc00">::::::::########::#########:::######:::##::::##:##:#########:##:##::::###:::::::::::::::::</tspan>
+    <tspan x="14" dy="11">::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+    <tspan x="14" dy="11" fill="#ffd700">:::::::::::::::::::::::::::::::::::::::[ L2JALN ]:::::::::::::::::::::::::::::::::::::::::::::</tspan>
+    <tspan x="14" dy="11" fill="#9cdcfe">::::::::::::::::::::::::::::::::::: ENG E DESENVOLVIMENTO: ANDERSON LUIS DO NASCIMENTO</tspan>
+    <tspan x="14" dy="11" fill="#dcdcaa">::::::::::::::::::::::::::::::::::: BUILD 2026 | BASE ACIS 382 | PACK COM PROTECAO</tspan>
+    <tspan x="14" dy="11" fill="#ce9178">::::::::::::::::::::::::::::::::::: ASSINATURA TECNICA: DEV &lt;A.L.N/&gt;</tspan>
+    <tspan x="14" dy="11" fill="#b5cea8">::::::::::::::::::::::::::::::::::: &lt;DISCORD&gt; @dev.aln</tspan>
+    <tspan x="14" dy="14" fill="#0f0">C:\L2JALN\gameserver&gt;_</tspan>
+  </text>
+</svg>
