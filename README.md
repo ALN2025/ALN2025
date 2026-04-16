@@ -5,6 +5,21 @@
   <img width="100%" alt="Prompt de Comando — readme resumido dentro da janela (type profile.txt)" src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-window-banner.svg"/>
 </p>
 
+### `~/team` — L2J-A.L.N (consola · simulação Login + Game no Linux)
+
+<p align="center">
+  <img width="100%" alt="Team-L2J-A.L.N — LOGIN SERVER — ASCII + créditos" src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-team-l2jaln-part1.svg"/>
+</p>
+<p align="center">
+  <img width="100%" alt="L2JALN boot — LoginServer (Loading + LoginController)" src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-team-l2jaln-boot-login.svg"/>
+</p>
+<p align="center">
+  <img width="100%" alt="Team-L2J-A.L.N — GAME SERVER — ASCII + créditos" src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-team-l2jaln-game.svg"/>
+</p>
+<p align="center">
+  <img width="100%" alt="L2JALN boot — GameServer (Loading + GameServer)" src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-team-l2jaln-boot-game.svg"/>
+</p>
+
 <p align="center"><sub><b>Fundo da página:</b> o GitHub <b>não permite</b> CSS de fundo no README. O escuro vem do <b>tema Dark</b> (Settings → Appearance). O texto do “readme” no banner é <b>desenho dentro do SVG</b> (não é HTML por cima da imagem — o GitHub não permite isso).</sub></p>
 
 <p align="center">
