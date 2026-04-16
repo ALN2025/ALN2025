@@ -1,125 +1,136 @@
-<!-- Perfil GitHub (repo ALN2025/ALN2025) — tema Kali + hacker / colar como README.md -->
-<!-- Banner largo: capsule-render. SVG próprio opcional na pasta profile-readme-assets (mesmo repo). -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+  README de perfil GitHub — copiar para: github.com/ALN2025/ALN2025/README.md
+  Tema: Kali · terminal · Matrix-green  ·  ALN2025
+  ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ========== BANNER PRINCIPAL (hack / Matrix × Kali) ========== -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1117,100:003b1f&height=170&section=header&text=root%40kali%3A~%23+.%2Fwhoami+%E2%80%94+ALN2025&fontSize=31&fontColor=00ff41&fontAlignY=46" alt="banner hacker Kali"/>
-</p>
+<div align="center">
 
-<!-- Faixa secundária estilo “status bar” -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:001a0d&height=52&section=header&text=%5B%2B%5D+ethical+use+%C2%B7+Kali+Linux+%C2%B7+git+config+--global&fontSize=17&fontColor=39ff14" alt="status strip"/>
-</p>
+<!-- Linha 1: faixa “boot” -->
+<img width="100%" alt="boot strip" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:161b22&height=36&section=header&text=BOOT%20SEQUENCE%20%E2%80%94%20ALN2025%20%E2%80%94%20KALI%20%2F%20LINUX&fontSize=15&fontColor=58a6ff&fontAlignY=55"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=23&duration=2200&pause=400&color=00FF41&center=true&vCenter=true&width=980&height=80&background=00000000&multiline=true&lines=%3E+nmap+-sn+192.168.0.0%2F24+%23+scan+simulado+%F0%9F%98%89;%3E+git+log+--oneline+-5+%23+hist%C3%B3rico;%3E+echo+%24USER+%40+Kali+Linux+%C2%B7+L2J+%C2%B7+code" alt="typing terminal"/>
-</p>
+<!-- Linha 2: banner principal ondulado -->
+<img width="100%" alt="banner principal" src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,25:0d1117,55:002d1a,100:00ff41&height=185&section=header&text=root%40kali%3A~%23+whoami+%E2%96%B8+Anderson+%E2%80%94+ALN&fontSize=30&fontColor=00ff41&fontAlignY=45"/>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="88" height="88" alt="Linux"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-offensive_sec-557cbf?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0a0a" alt="Kali"/>
-  <img src="https://img.shields.io/badge/role-hacker_mindset-00ff41?style=for-the-badge&logo=hackaday&logoColor=000&labelColor=0d1117" alt="hack"/>
-  <img src="https://img.shields.io/badge/shell-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0a0a0a" alt="bash"/>
-  <img src="https://img.shields.io/badge/vcs-git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a" alt="Git"/>
-</p>
-
-<p align="center"><sub><b>⚠ Uso ético / legal</b> · pentest só com autorização · L2 em servidor privado</sub></p>
+<!-- Linha 3: barra de status -->
+<img width="100%" alt="status" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1f12&height=54&section=header&text=%5BOK%5D+ethical+use+%C2%B7+%5BOK%5D+open+source+%C2%B7+%5BOK%5D+L2+private+server&fontSize=16&fontColor=39ff14"/>
 
 <br/>
 
-### `~/exploit.txt` — brincadeira (é só README)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=24&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=1000&height=95&multiline=true&repeat=true&lines=%3E+cat+%2Fetc%2Fmotd+%23+welcome;%3E+uname+-a+%7C+grep+-i+kali;%3E+git+status+-sb+%23+always+commit;%3E+java+-version+%23+L2J+stack;%3E+echo+%22code+%C2%B7+game+servers+%C2%B7+infra%22" alt="terminal typing"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="96" height="96" alt="Linux"/>
+
+<br/>
+
+<img alt="views" src="https://komarev.com/ghpvc/?username=ALN2025&label=profile%20views&color=0d1117&style=for-the-badge&labelColor=00ff41"/>
+<img alt="followers" src="https://img.shields.io/github/followers/ALN2025?color=00ff41&label=followers&logo=github&labelColor=0a0a0a&style=for-the-badge"/>
+<img alt="Kali" src="https://img.shields.io/badge/OS-Kali_Linux-557cbf?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0a0a"/>
+<img alt="bash" src="https://img.shields.io/badge/shell-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0a0a0a"/>
+<img alt="java" src="https://img.shields.io/badge/code-Java-ea2d2d?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0a"/>
+
+<br/>
+
+<sub><b>Ética:</b> pentest só autorizado · L2 em ambiente privado · respeito ao FOSS</sub>
+
+</div>
+
+<br/>
+
+## `~/banner.txt`
 
 ```text
-[+] 0day: não divulgo
-[+] stack : Java · bash · Git · rede · L2J
-[+] mode  : DEV A.L.N · ADS UCS · open source onde couber
+    ╔══════════════════════════════════════╗
+    ║  ALN2025 · DEV · Game Server · L2J   ║
+    ║  Kali · bash · Git · Java · Docker   ║
+    ╚══════════════════════════════════════╝
 ```
 
 <br/>
 
-### `~/git-profile` — script Kali (`bash` + prompt + `git config`)
+## `~/payload` — sobre
 
-| Item | Onde |
-|------|------|
-| Script | [`dev-tools/kali-git-profile.sh`](https://github.com/ALN2025/source-pack-backup/blob/main/dev-tools/kali-git-profile.sh) · repo **source-pack-backup** |
+| Campo | Valor |
+|--------|--------|
+| **Nome** | Anderson Nascimento |
+| **Formação** | ADS — UCS |
+| **Foco** | Full stack · servidores L2 (L2J) · performance · conteúdo custom |
+| **Stack** | Java · bash · Git · Linux · rede · automação |
 
-```text
-chmod +x kali-git-profile.sh
-./kali-git-profile.sh apply
-./kali-git-profile.sh bashrc
+<br/>
+
+## `~/git-profile.sh` — terminal bonito no Kali
+
+Script com **`git config --global`**, aliases e **prompt com branch** (`__git_ps1`).
+
+| | |
+|:---|:---|
+| **Arquivo** | [`dev-tools/kali-git-profile.sh`](https://github.com/ALN2025/source-pack-backup/blob/main/dev-tools/kali-git-profile.sh) |
+| **Repo** | [**source-pack-backup**](https://github.com/ALN2025/source-pack-backup) |
+
+```
+chmod +x kali-git-profile.sh && ./kali-git-profile.sh apply && ./kali-git-profile.sh bashrc
 ```
 
 <br/>
 
-### `~/sysinfo`
+## `~/repos` — destaques
 
-```text
-OPERATOR..........: Anderson Nascimento
-ROLE..............: Full Stack · Game server · ADS (UCS)
-STACK.............: Java · L2J · Git · Kali · automação
-```
-
-<br/>
-
-### `~/repos`
-
-| Projeto | Link |
-|--------|------|
-| **Source pack** | [ALN2025/source-pack-backup](https://github.com/ALN2025/source-pack-backup) |
-| **Pack L2JALN** | [ALN2025/pack_L2JALN](https://github.com/ALN2025/pack_L2JALN) |
-| **XDAT L2JA.L.N** | [ALN2025/editor-xdat-l2jaln](https://github.com/ALN2025/editor-xdat-l2jaln) |
+| Repositório | Descrição |
+|-------------|-----------|
+| [**source-pack-backup**](https://github.com/ALN2025/source-pack-backup) | Source / pack · README L2JBrasil · script Kali |
+| [**pack_L2JALN**](https://github.com/ALN2025/pack_L2JALN) | Pack L2J para produção · releases |
+| [**editor-xdat-l2jaln**](https://github.com/ALN2025/editor-xdat-l2jaln) | Editor Interface.xdat · JDK 8 + JavaFX |
 
 <br/>
 
-### `~/stack`
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,java,git,github,docker,mysql,nginx,vscode,bash&perline=9&theme=dark" alt="stack"/>
-</p>
+## `~/arsenal`
 
-<br/>
+<img src="https://skillicons.dev/icons?i=linux,java,git,github,docker,mysql,nginx,vscode,idea,bash,nodejs&perline=11&theme=dark" alt="skills"/>
 
-### `~/metrics` — GitHub (tema escuro + verde terminal)
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/ALN2025">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&ring_color=00ff41&border_color=003d21" alt="stats"/>
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=003d21" alt="langs"/>
-  </a>
-</p>
+## `~/github-metrics`
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ALN2025&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=8b949e&background=0D1117" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=003321&title_color=00ff41" alt="activity"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=onestar&no-frame=true&margin-w=4&column=7&row=1" alt="trophies"/>
-</p>
+<a href="https://github.com/ALN2025">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=14&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=58a6ff&ring_color=00ff41" alt="GitHub stats"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&langs_count=10&hide_border=true&border_radius=14&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top languages"/>
+</a>
 
 <br/>
 
-### `~/links`
-
-<p align="center">
-  <a href="https://www.aocubo.dev.br"><img src="https://img.shields.io/badge/WEB-aocubo.dev.br-00ff41?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a" alt="site"/></a>
-  <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="linkedin"/></a>
-  <a href="https://github.com/ALN2025"><img src="https://img.shields.io/badge/GitHub-ALN2025-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="github"/></a>
-</p>
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ALN2025&theme=dark&hide_border=true&border_radius=14&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=58a6ff&dates=8b949e&background=0D1117" alt="Streak"/>
 
 <br/>
 
-<p align="center">
-  <sub><b>Git 6</b> · tema <b>Kali + hack / terminal</b> · base <code>git5_linux</code></sub>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&hide_border=true&radius=12&bg_color=0d1117&color=58a6ff&line=00ff41&point=39ff14&area=true&area_color=002d1a80&title_color=00ff41&custom_title=Contribution%20Graph" alt="Activity"/>
 
-<!-- Rodapé ondulado invertido -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003015,100:000000&height=120&section=footer&text=%24+logout+%26%26+exit+0&fontSize=24&fontColor=00ff41&fontAlignY=62" alt="footer banner"/>
-</p>
+<br/>
+
+<img height="190" src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=radical&no-frame=true&margin-w=6&column=8&row=1" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## `~/uplink`
+
+<a href="https://www.aocubo.dev.br"><img src="https://img.shields.io/badge/SITE-aocubo.dev.br-00ff41?style=for-the-badge&logo=firefox&logoColor=black&labelColor=0a0a0a" alt="Site"/></a>
+<a href="https://www.linkedin.com/in/anderson-nascimento-22305931b"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@anderson.L2JaCis"><img src="https://img.shields.io/badge/YouTube-@anderson.L2JaCis-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a0a" alt="YouTube"/></a>
+<a href="https://github.com/ALN2025"><img src="https://img.shields.io/badge/GitHub-ALN2025-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub"/></a>
+
+<br/><br/>
+
+<sub><b>README Git 6</b> · Kali × terminal × Matrix-green · evolução do <code>git5_linux</code></sub>
+
+<br/>
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,35:003020,100:000000&height=128&section=footer&text=%24+clear+%26%26+exit+0&fontSize=26&fontColor=000000&fontAlignY=58"/>
+
+</div>
