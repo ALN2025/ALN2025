@@ -1,7 +1,12 @@
-<!-- Git 5 — tema Linux / FOSS (impacto visual). Alterna com git1–git4 no README do perfil. -->
+<!-- Git 5 — tema Linux / FOSS. O "fundo CMD" é uma imagem SVG (GitHub não permite CSS de fundo no README). Coloca a pasta profile-readme-assets/ no repo ALN2025/ALN2025 — ver INSTRUCOES.txt lá dentro. -->
+
+<!-- Janela estilo Prompt de Comando (Windows). Troca "main" por "master" na URL se for o teu branch padrão. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-window-banner.svg" width="92%" alt="Prompt de Comando — estilo janela CMD"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:fcc624&height=130&section=header&text=%24+whoami+%E2%80%94+ALN2025&fontSize=30&fontColor=fcc624&fontAlignY=42" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:fcc624&height=110&section=header&text=%24+whoami+%E2%80%94+ALN2025&fontSize=28&fontColor=fcc624&fontAlignY=42" alt="banner secundário"/>
 </p>
 
 <p align="center">
