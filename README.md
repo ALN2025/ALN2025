@@ -45,7 +45,7 @@
 
 <br/>
 
-## `~/banner.txt`
+## `~/banner.
 
 ```text
 ☕ VIDA DE PROGRAMADOR — O CAFÉ E O CÓDIGO
