@@ -60,17 +60,12 @@
 
 <br/>
 
-## `~/git-profile.sh` — terminal bonito no Kali
+## `~/git-profile.sh`
 
-Script com **`git config --global`**, aliases e **prompt com branch** (`__git_ps1`).
-
-| | |
-|:---|:---|
-| **Arquivo** | [`dev-tools/kali-git-profile.sh`](https://github.com/ALN2025/source-pack-backup/blob/main/dev-tools/kali-git-profile.sh) |
-| **Repo** | [**source-pack-backup**](https://github.com/ALN2025/source-pack-backup) |
-
-```
-chmod +x kali-git-profile.sh && ./kali-git-profile.sh apply && ./kali-git-profile.sh bashrc
+```text
+root@kali:~# chmod +x kali-git-profile.sh
+root@kali:~# ./kali-git-profile.sh apply
+root@kali:~# ./kali-git-profile.sh bashrc
 ```
 
 <br/>
