@@ -35,7 +35,7 @@
 <p align="center"><b>DEV ⩿ A.L.N / ⪀</b> · <b>ADS — UCS</b> · servidores privados L2 · performance · conteúdo custom</p>
 
 <br/>
-````markdown
+
 ### `~/sysinfo` — sobre
 
 ```text
