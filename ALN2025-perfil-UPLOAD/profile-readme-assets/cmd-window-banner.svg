@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 300" width="100%" role="img" aria-label="Prompt de Comando com resumo do perfil">
+  <defs>
+    <linearGradient id="tb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3d3d3d"/>
+      <stop offset="100%" stop-color="#2d2d2d"/>
+    </linearGradient>
+  </defs>
+  <!-- moldura -->
+  <rect x="1" y="1" width="918" height="298" rx="8" fill="#0c0c0c" stroke="#666" stroke-width="2"/>
+  <!-- barra titulo -->
+  <rect x="2" y="2" width="916" height="36" rx="5" fill="url(#tb)"/>
+  <rect x="12" y="10" width="18" height="18" fill="#0c0c0c" stroke="#aaa" stroke-width="1"/>
+  <text x="15" y="24" fill="#0f0" font-family="Consolas,monospace" font-size="12">&gt;_</text>
+  <text x="38" y="25" fill="#f0f0f0" font-family="Segoe UI,Tahoma,sans-serif" font-size="14" font-weight="600">Administrador: Prompt de Comando - ALN2025</text>
+  <text x="812" y="25" fill="#ddd" font-family="Segoe UI,sans-serif" font-size="15">&#x2212;</text>
+  <text x="846" y="23" fill="#ddd" font-family="Segoe UI,sans-serif" font-size="12">&#x25A1;</text>
+  <rect x="878" y="0" width="40" height="36" fill="#c42b1c"/>
+  <text x="892" y="25" fill="#fff" font-family="Segoe UI,sans-serif" font-size="16">&#x00D7;</text>
+  <!-- area consola -->
+  <rect x="2" y="38" width="916" height="260" fill="#0c0c0c"/>
+  <text x="16" y="62" fill="#b0b0b0" font-family="Consolas,monospace" font-size="13">Microsoft Windows [Version 10.0.x]</text>
+  <text x="16" y="82" fill="#888" font-family="Consolas,monospace" font-size="11">(c) Microsoft Corporation.</text>
+  <text x="16" y="108" fill="#0f0" font-family="Consolas,monospace" font-size="14" font-weight="bold">C:\Users\ALN2025&gt; <tspan fill="#0f0">type profile.txt</tspan></text>
+  <!-- readme / sysinfo dentro da janela -->
+  <text x="16" y="138" fill="#9cdcfe" font-family="Consolas,monospace" font-size="12">HOST..............:</text>
+  <text x="200" y="138" fill="#ce9178" font-family="Consolas,monospace" font-size="12">Anderson Nascimento</text>
+  <text x="16" y="158" fill="#9cdcfe" font-family="Consolas,monospace" font-size="12">ROLE..............:</text>
+  <text x="200" y="158" fill="#dcdcaa" font-family="Consolas,monospace" font-size="12">Full Stack | Game server | estudante ADS (UCS)</text>
+  <text x="16" y="178" fill="#9cdcfe" font-family="Consolas,monospace" font-size="12">TAGLINE...........:</text>
+  <text x="200" y="178" fill="#b5cea8" font-family="Consolas,monospace" font-size="12">DEV A.L.N | servidores L2 | performance | custom</text>
+  <text x="16" y="198" fill="#9cdcfe" font-family="Consolas,monospace" font-size="12">STACK-FOCUS.......:</text>
+  <text x="200" y="198" fill="#dcdcaa" font-family="Consolas,monospace" font-size="12">Java | Docker | rede | automação | cliente/jogador</text>
+  <text x="16" y="218" fill="#9cdcfe" font-family="Consolas,monospace" font-size="12">LICENSE...........:</text>
+  <text x="200" y="218" fill="#808080" font-family="Consolas,monospace" font-size="11">respeito ao FOSS; projetos sob regras da comunidade</text>
+  <text x="16" y="248" fill="#0f0" font-family="Consolas,monospace" font-size="14">C:\Users\ALN2025&gt;<tspan fill="#0f0">_</tspan></text>
+</svg>

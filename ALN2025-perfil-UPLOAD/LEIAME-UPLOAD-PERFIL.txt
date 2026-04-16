@@ -1,0 +1,42 @@
+Pasta para enviar ao repositório do PERFIL GitHub: ALN2025 / ALN2025
+====================================================================
+
+O que tens aqui
+---------------
+  ALN2025-perfil-UPLOAD/
+    profile-readme-assets/
+      cmd-window-banner.svg           ← banner perfil (type profile.txt)
+      cmd-team-l2jaln-part1.svg       ← Team + LOGIN SERVER + ASCII + créditos
+      cmd-team-l2jaln-boot-login.svg  ← boot Linux · LoginServer (Loading + LoginController)
+      cmd-team-l2jaln-game.svg        ← Team + GAME SERVER + ASCII + créditos
+      cmd-team-l2jaln-boot-game.svg   ← boot Linux · GameServer (Loading + GameServer)
+
+  Nota: cmd-team-l2jaln-part2.svg foi substituído por boot-login + boot-game (login vs game).
+
+O que fazer no GitHub
+---------------------
+1. Abre: https://github.com/ALN2025/ALN2025
+
+2. Add file > Upload files
+
+3. Arrasta para a RAIZ desse repositório a pasta:
+      profile-readme-assets
+   (com todos os SVG listados acima)
+
+   Importante: o caminho final no GitHub tem de ficar, por exemplo:
+      ALN2025/ALN2025/profile-readme-assets/cmd-window-banner.svg
+
+4. Commit changes (branch main, ou master se for o teu padrão).
+
+5. Se o README usar o link com "main" e o teu repo for "master", edita o README e troca
+   main por master na URL do <img> do banner, ou renomeia o branch para main.
+
+6. Se ainda tiveres cmd-team-l2jaln-part2.svg no repo, podes apagá-lo (o PROFILE_README_git5_linux.md já não o usa).
+
+Link que o PROFILE_README_git5_linux.md espera
+----------------------------------------------
+https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-window-banner.svg
+
+(Se o branch for master, troca "main" por "master".)
+
+Podes apagar este LEIAME depois do upload; não é obrigatório no repo.

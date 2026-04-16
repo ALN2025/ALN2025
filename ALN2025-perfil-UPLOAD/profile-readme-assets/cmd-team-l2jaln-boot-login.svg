@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 200" width="100%" role="img" aria-label="L2JALN boot - LoginServer (Linux)">
+  <defs>
+    <linearGradient id="tbl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="100%" stop-color="#252525"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1040" height="200" fill="#0c0c0c" stroke="#555" stroke-width="2" rx="6"/>
+  <rect x="0" y="0" width="1040" height="34" fill="url(#tbl)" rx="6"/>
+  <text x="12" y="23" fill="#ddd" font-family="Segoe UI,Tahoma,sans-serif" font-size="13">L2J-A.L.N &#x2014; boot Linux &#x00B7; LoginServer</text>
+  <rect x="0" y="34" width="1040" height="166" fill="#0c0c0c"/>
+  <text xml:space="preserve" x="14" y="52" fill="#c0c0c0" font-family="Consolas,Courier New,monospace" font-size="9">
+    <tspan x="14" dy="0" fill="#ffd700">-----------------------------------------------------------------------=[ L2JALN ]</tspan>
+    <tspan x="14" dy="13" fill="#dcdcaa">-----------------------------------------------------------------------=[ PROJETO INICIADO EM 2022 ]</tspan>
+    <tspan x="14" dy="13" fill="#f44747">AVISO: ESSA PACK CONTEM UMA KEY DE USO RESTRITO APENAS DO CLIENTE QUE TEM A LICENSA.</tspan>
+    <tspan x="14" dy="13" fill="#9cdcfe">-------------------------------------------------------=[ L2JMod-DevALN aCis ]</tspan>
+    <tspan x="14" dy="13" fill="#b5cea8">Loading loginserver configuration files.</tspan>
+    <tspan x="14" dy="13" fill="#ce9178">----------------------------------------------------------=[ LoginController ]</tspan>
+    <tspan x="14" dy="16" fill="#0f0">loginserver&gt;_</tspan>
+  </text>
+</svg>
