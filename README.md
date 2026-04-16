@@ -2,17 +2,17 @@
 
 <!-- Janela CMD: tem de existir este ficheiro no MESMO repo: profile-readme-assets/cmd-window-banner.svg -->
 <p align="center">
-  <img width="92%" alt="Prompt de Comando - estilo janela CMD" src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-window-banner.svg"/>
+  <img width="100%" alt="Prompt de Comando — readme resumido dentro da janela (type profile.txt)" src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-window-banner.svg"/>
 </p>
 
-<p align="center"><sub><b>Fundo da página:</b> o GitHub <b>não permite</b> definir fundo de <i>todo</i> o perfil pelo README (não há CSS de background). O preto que vês é o <b>tema escuro</b> do site (ícone perfil → <b>Settings</b> → <b>Appearance</b> → <b>Dark</b>). No README só dá para “simular” consola com <b>imagens largas</b> (banner CMD) e <b>blocos de código</b> (fundo cinzento no preview).</sub></p>
+<p align="center"><sub><b>Fundo da página:</b> o GitHub <b>não permite</b> CSS de fundo no README. O escuro vem do <b>tema Dark</b> (Settings → Appearance). O texto do “readme” no banner é <b>desenho dentro do SVG</b> (não é HTML por cima da imagem — o GitHub não permite isso).</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:fcc624&height=110&section=header&text=%24+whoami+%E2%80%94+ALN2025&fontSize=28&fontColor=fcc624&fontAlignY=42" alt="banner secundário"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:fcc624&height=145&section=header&text=%24+whoami+%E2%80%94+ALN2025&fontSize=36&fontColor=fcc624&fontAlignY=48" alt="banner dourado whoami"/>
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="120" height="120" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="150" height="150" alt="Linux"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2800&pause=600&color=FCC624&center=true&vCenter=true&width=900&background=0D1117&multiline=true&lines=anderson@ucs%3A~%24+echo+%24USER;Lineage+2+Java+%C2%B7+Packs+%C2%B7+ferramentas+abertas;open+source+mindset+%C2%B7+infra+%C2%B7+código+que+escala" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2800&pause=600&color=FCC624&center=true&vCenter=true&width=1000&background=0D1117&multiline=true&lines=anderson@ucs%3A~%24+echo+%24USER;Lineage+2+Java+%C2%B7+Packs+%C2%B7+ferramentas+abertas;open+source+%C2%B7+infra+%C2%B7+código+que+escala" alt="typing"/>
 </p>
 
 <p align="center"><b>DEV ⩿ A.L.N / ⪀</b> · <b>ADS — UCS</b> · servidores privados L2 · performance · conteúdo custom</p>
@@ -31,9 +31,12 @@
 
 ### `~/sysinfo` — sobre
 
+*O resumo já aparece **dentro do banner CMD** (comando `type profile.txt`). Abaixo a mesma informação em texto para **copiar** / leitores de ecrã:*
+
 ```text
 HOST..............: Anderson Nascimento
 ROLE..............: Full Stack · Game server · estudante ADS (UCS)
+TAGLINE...........: DEV A.L.N | servidores L2 | performance | custom
 STACK-FOCUS.......: Java · Docker · rede · automação · cliente/jogador
 LICENSE...........: respeito ao FOSS; projetos próprios sob regras da comunidade
 ```
@@ -113,5 +116,5 @@ LICENSE...........: respeito ao FOSS; projetos próprios sob regras da comunidad
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcc624,100:000000&height=95&section=footer&text=%24+exit+0&fontSize=24&fontColor=000000&fontAlignY=65" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcc624,100:000000&height=110&section=footer&text=%24+exit+0&fontSize=28&fontColor=000000&fontAlignY=62" alt="footer"/>
 </p>
