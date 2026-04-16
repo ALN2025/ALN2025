@@ -37,9 +37,7 @@
 <br/>
 
 ### `~/sysinfo` — sobre
-
-
-
+````text
 
 HOST..............: Anderson Nascimento
 ROLE..............: Full Stack · Game server · estudante ADS (UCS)
