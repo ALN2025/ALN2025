@@ -1,195 +1,103 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
-
-<!-- Gráfico de contribuições (Pac-Man) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2d9b3f&size=32&center=true&vCenter=true&width=1000&duration=3000&pause=800&background=ffffff&lines=Olá,+sejam+bem-vindos!;Anderson+Nascimento+—+ADS+UCS;Desenvolvedor+de+servidores+Lineage+2;Full+Stack+%7C+Game+Server+Specialist;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
-</div>
-
-<p align="center"><b style="font-size:1.5em;">DEV ⩿ A.L.N/⪀</b></p>
-<p align="center"><b>Desenvolvedor Full Stack | Game Server Specialist | Apaixonado por Tecnologia</b></p>
-
-<hr style="border: none; border-top: 1px solid #e5e7eb; width: 72%; margin: 24px auto;">
+<!-- ALN2025 — README alternativo (Git 2). Troca com PROFILE_README_git1.md no repositório do perfil quando quiseres outro visual. -->
 
 <p align="center">
-  🎓 <b>Graduando em Análise e Desenvolvimento de Sistemas pela UCS</b><br>
-  <i>Mais de 4 anos com servidores privados de <b>Lineage 2</b> — foco em desafio, performance e inovação.</i>
-</p>
-<p align="center">
-  🚀 <b>Ideias em soluções reais</b> — sistemas robustos, otimização e projetos de games com impacto.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0369a1&height=130&section=header&text=ALN2025&fontSize=42&fontColor=fff&fontAlignY=40" alt="ALN2025 header"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Anderson+Nascimento;ADS+%E2%80%94+UCS+%7C+Lineage+2+Java+%7C+Full+Stack;Game+server%2C+back-end+e+ferramentas+pra+comunidade" alt="typing"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://www.aocubo.dev.br" target="_blank"><img src="https://img.shields.io/badge/Site-aocubo.dev.br-2d9b3f?style=flat-square&logo=google-chrome&logoColor=white&labelColor=1f2937" alt="Site"/></a>
-  <a href="https://github.com/ALN2025" target="_blank"><img src="https://img.shields.io/badge/GitHub-ALN2025-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/></a>
+  <sub><b>DEV ⩿ A.L.N / ⪀</b> · servidor privado L2 · performance · conteúdo custom</sub>
 </p>
-
----
-
-## ⭐ L2J ALN — destaque
 
 <p align="center">
-  <a href="https://github.com/ALN2025/pack_L2JALN"><img src="https://img.shields.io/badge/Pack_L2JALN-repositório-2d9b3f?style=flat-square&logo=github&logoColor=white&labelColor=1f2937" alt="Pack L2JALN"/></a>
-  <img src="https://img.shields.io/badge/Patch_cliente-atualização_ZIP-f3f4f6?style=flat-square&logo=files&logoColor=374151&labelColor=e5e7eb" alt="Patch"/>
+  <a href="https://github.com/ALN2025"><img src="https://img.shields.io/badge/GitHub-ALN2025-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.aocubo.dev.br"><img src="https://img.shields.io/badge/Site-aocubo.dev.br-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site"/></a>
+  <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-| | |
-|---|---|
-| **Pack** | Servidor **Lineage 2 Java** — pack completa para produção: proteções, eventos, configs e conteúdo custom. **Repositório:** [**pack_L2JALN**](https://github.com/ALN2025/pack_L2JALN) · [**Release v1.0.0**](https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0) |
-| **Patch** | Atualizações para **jogadores** (HTML, multisell, dados, etc.) em **`.zip`** — distribuição pelo servidor/site/Discord; mantém a mesma estrutura da pack ao extrair. |
+<br/>
 
-> O **código-fonte** do núcleo L2jALN permanece em **repositório privado**. Aqui no perfil o foco público é a **pack** e o **patch** para clientes e administradores.
+> **Sobre ·** Graduando em **ADS** (UCS). Há anos em **servidores Lineage 2** — desafio, otimização e projetos que viram solução (pack, ferramentas, integração). Foco em **Java**, infra e experiência jogável.
 
----
+<br/>
 
-## 🤝 Contribuição L2JBRASIL — XDAT (meu primeiro trabalho)
+### Mapa rápido
+
+| Área | Link / nota |
+|------|-------------|
+| **Pack L2JALN** | [**Repositório**](https://github.com/ALN2025/pack_L2JALN) · [**Release v1.0.0**](https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0) |
+| **Patch (cliente)** | Distribuição em **`.zip`** (HTML, multisell, dados…) — mesma lógica da pack ao extrair |
+| **XDAT L2JA.L.N** | [**editor-xdat-l2jaln**](https://github.com/ALN2025/editor-xdat-l2jaln) — editor **Interface.xdat** empacotado (**bin/lib** + `.bat`); JDK **8 + JavaFX** |
+| **Núcleo L2jALN** | *Source* em repositório **privado**; no GitHub público: pack, patch e ferramentas |
+
+<br/>
+
+### Stack (visão única)
 
 <p align="center">
-  <a href="https://github.com/ALN2025/editor-xdat-l2jaln"><img src="https://img.shields.io/badge/L2JBRASIL-comunidade-2d9b3f?style=flat-square&logo=github&logoColor=white&labelColor=1f2937" alt="L2JBRASIL"/></a>
-  <a href="https://github.com/ALN2025/editor-xdat-l2jaln"><img src="https://img.shields.io/badge/Editor_XDAT-L2JA.LN-f3f4f6?style=flat-square&logo=java&logoColor=437291&labelColor=e5e7eb" alt="Editor XDAT"/></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,git,github,nodejs,react,next,tailwind,mysql,postgresql,redis,linux,nginx,vscode,idea&perline=9&theme=dark" alt="Stack"/>
 </p>
 
-| | |
-|---|---|
-| **L2JBRASIL** | Contribuição voltada à comunidade **brasileira** de servidores **Lineage 2 Java** — ferramentas e materiais que a galera usa no dia a dia. |
-| **XDAT** | Editor para **Interface.xdat** em pacote **pronto para usar** (sem precisar compilar o *source*): foi o meu **primeiro trabalho** público nesse formato, pensado para quem só quer abrir e editar. |
-| **Repositório** | [**ALN2025/editor-xdat-l2jaln**](https://github.com/ALN2025/editor-xdat-l2jaln) — pastas `bin` e `lib`, `LEIAME.txt` e o launcher **`Iniciar XDAT Editor L2JA.LN.bat`**. |
+<br/>
 
-> ⚠️ Para rodar no PC: **JDK 8 com JavaFX** (ex.: **Azul ZuluFX 8**). Detalhes no `LEIAME.txt` do repositório.
+### GitHub — números & ritmo
 
----
-
-## 📈 Estatísticas GitHub
-
-<!-- Cartões claros (sem tema escuro): fundo branco + verde marca #67cb57 / #2d9b3f -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/ALN2025">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=12&border_color=d0d7de&bg_color=ffffff&title_color=1f2328&text_color=656d76&icon_color=2d9b3f&ring_color=2d9b3f" alt="Estatísticas GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&langs_count=8&hide_border=false&border_radius=12&border_color=d0d7de&bg_color=ffffff&title_color=1f2328&text_color=656d76&icon_color=2d9b3f" alt="Linguagens mais usadas"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&icon_color=38bdf8&ring_color=38bdf8" alt="stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN2025&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="langs"/>
   </a>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ALN2025&theme=swift&hide_border=true&ring=2d9b3f&fire=2d9b3f" alt="Streak de contribuições"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Troféus GitHub"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&hide_border=true&area=true&bg_color=ffffff&color=2d9b3f&line=2d9b3f&point=1f2328&area_color=67cb57&title_color=1f2328" alt="Gráfico de atividade"/>
-</div>
-
----
-
-## 🔗 Currículo & links
-
-<p align="center">
-  <a href="https://www.aocubo.dev.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-aocubo.dev.br-2d9b3f?style=flat-square&logo=google-chrome&logoColor=white&labelColor=1f2937" alt="Portfólio"/></a>
 </p>
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ALN2025&theme=tokyonight&hide_border=true&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8" alt="streak"/>
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=ALN2025&theme=dracula&no-frame=true&margin-w=4&column=6" alt="trophies"/>
+</p>
 
-## 🌍 Conecte-se
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALN2025&hide_border=true&area=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f472b6&area_color=1e3a8a&title_color=e2e8f0" alt="activity"/>
+</p>
 
-| | |
-|---|---|
-| 🌐 Site | [aocubo.dev.br](https://www.aocubo.dev.br) |
-| ▶️ YouTube | [@anderson.L2JaCis](https://www.youtube.com/@anderson.L2JaCis) |
-| 📘 Facebook | [anderson.nascimento](https://www.facebook.com/anderson.nascimento.979538) |
-| 🔗 LinkedIn | [anderson-nascimento](https://www.linkedin.com/in/anderson-nascimento-22305931b) |
-| 💬 WhatsApp | [Grupo](https://chat.whatsapp.com/C5Z4H7funYGGc9n33Zo2q6) |
+<br/>
 
-*(Adicione Instagram/Discord aqui quando quiser publicar os links.)*
-
----
-
-## 🕒 WakaTime
+### WakaTime
 
 <p align="center">
   <a href="https://wakatime.com/@ALN2025">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ALN2025&hide_border=false&border_radius=12&border_color=d0d7de&bg_color=ffffff&title_color=1f2328&text_color=656d76&icon_color=2d9b3f" alt="WakaTime"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ALN2025&theme=tokyonight&hide_border=true&border_radius=10" alt="WakaTime"/>
   </a>
 </p>
 
----
+<br/>
 
-## 🚀 Stack (visão geral)
+### UCS — projetos (ADS)
 
-### 🛠️ Ferramentas & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,maven,linux,nginx&theme=light" alt="DevOps"/>
-</p>
+| Etapa | Stack | Repo |
+|-------|--------|------|
+| **1** — PostgreSQL, DAO/POJO | Java · PostgreSQL · Maven | [P.I-ucs-etapa1-III-B](https://github.com/ALN2025/P.I-ucs-etapa1-III-B) |
+| **2** — Factory, MVC, JavaFX | Java · PostgreSQL/MySQL · Maven | [P.I-ucs-etapa2-III-B](https://github.com/ALN2025/P.I-ucs-etapa2-III-B) |
 
-### 🖥️ Back-end
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,python,spring,maven&theme=light" alt="Back-end"/>
-</p>
+<br/>
 
-### 🎨 Front-end
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind&theme=light" alt="Front-end"/>
-</p>
+### Onde me achar
 
-### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=light" alt="Database"/>
-</p>
+| | |
+|:--|:--|
+| Site | [aocubo.dev.br](https://www.aocubo.dev.br) |
+| YouTube | [@anderson.L2JaCis](https://www.youtube.com/@anderson.L2JaCis) |
+| Facebook | [anderson.nascimento](https://www.facebook.com/anderson.nascimento.979538) |
+| LinkedIn | [anderson-nascimento](https://www.linkedin.com/in/anderson-nascimento-22305931b) |
+| WhatsApp | [Grupo](https://chat.whatsapp.com/C5Z4H7funYGGc9n33Zo2q6) |
 
----
-
-### 🌐 AO CUBO — site
-
-🔗 [aocubo.dev.br](https://www.aocubo.dev.br) — licenciamento, comentários e informações gerais.
-
----
-
-## 📚 Projetos acadêmicos (UCS — ADS)
-
-Trabalhos da **Universidade de Caxias do Sul (UCS)** em Java, PostgreSQL/MySQL, Maven e boas práticas (DAO, POJO, MVC, Factory).
-
-### Etapa 1 — sistema original (PostgreSQL)
-
-![Java](https://img.shields.io/badge/Java-8-orange) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)
-
-Conexão com **PostgreSQL**, padrões **DAO** e **POJO**. Base inicial fornecida pela instituição.
-
-**Repositório:** [P.I-ucs-etapa1-III-B](https://github.com/ALN2025/P.I-ucs-etapa1-III-B)
-
----
-
-### Etapa 2 — sistema refatorado (PostgreSQL / MySQL)
-
-![Java](https://img.shields.io/badge/Java-8-orange) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)
-
-Melhorias: **múltiplos SGBDs (Factory Method)**, **paginação**, interface **JavaFX**, arquitetura **MVC** + **DAO**.
-
-**Repositório:** [P.I-ucs-etapa2-III-B](https://github.com/ALN2025/P.I-ucs-etapa2-III-B)
-
----
-
-## ⭐ Contribuições
+<br/>
 
 <p align="center">
-  <a href="https://github.com/ALN2025"><img src="https://img.shields.io/badge/GitHub-ALN2025-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub ALN2025"/></a>
+  <sub>Perfil alternativo <b>Git 2</b> — visual escuro / neon · troca com <code>git1</code> quando quiseres.</sub>
 </p>
 
-<p align="center"><strong>🚀 Obrigado por visitar meu perfil!</strong><br/>Vamos inovar e transformar ideias em realidade.</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturbomtempo-dev/arturbomtempo-dev/output/pacman-contribution-graph.svg">
-</picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,100:0f172a&height=100&section=footer&text=Obrigado+pela+visita&fontSize=22&fontColor=fff&fontAlignY=65" alt="footer"/>
+</p>
