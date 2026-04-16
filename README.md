@@ -44,7 +44,7 @@ ROLE..............: Full Stack · Game server · estudante ADS (UCS)
 TAGLINE...........: DEV A.L.N | servidores L2 | performance | custom
 STACK-FOCUS.......: Java · Docker · rede · automação · cliente/jogador
 LICENSE...........: respeito ao FOSS; projetos próprios sob regras da comunidade
-```
+````
 
 <br/>
 
