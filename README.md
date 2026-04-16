@@ -54,7 +54,7 @@
 
 ---
 
-## 🤝 Contribuição L2JBRASIL — XDAT (meu primeiro trabalho)
+## 🤝 Contribuição L2JBRASIL — 
 
 <p align="center">
   <a href="https://github.com/ALN2025/editor-xdat-l2jaln"><img src="https://img.shields.io/badge/L2JBRASIL-comunidade-2d9b3f?style=flat-square&logo=github&logoColor=white&labelColor=1f2937" alt="L2JBRASIL"/></a>
