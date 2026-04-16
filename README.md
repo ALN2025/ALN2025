@@ -5,6 +5,8 @@
   <img width="92%" alt="Prompt de Comando - estilo janela CMD" src="https://raw.githubusercontent.com/ALN2025/ALN2025/main/profile-readme-assets/cmd-window-banner.svg"/>
 </p>
 
+<p align="center"><sub><b>Fundo da página:</b> o GitHub <b>não permite</b> definir fundo de <i>todo</i> o perfil pelo README (não há CSS de background). O preto que vês é o <b>tema escuro</b> do site (ícone perfil → <b>Settings</b> → <b>Appearance</b> → <b>Dark</b>). No README só dá para “simular” consola com <b>imagens largas</b> (banner CMD) e <b>blocos de código</b> (fundo cinzento no preview).</sub></p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:fcc624&height=110&section=header&text=%24+whoami+%E2%80%94+ALN2025&fontSize=28&fontColor=fcc624&fontAlignY=42" alt="banner secundário"/>
 </p>
