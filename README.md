@@ -50,10 +50,31 @@
 
 | | |
 |---|---|
-| **Pack** | Servidor **Lineage 2 Java** — pack completa para produção: proteções, eventos, configs e conteúdo custom. **Repositório público:** [**github.com/ALN2025/pack_L2JALN**][(https://github.com/ALN2025/pack_L2JALN/releases/new)](https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0))|
+| **Pack** | Servidor **Lineage 2 Java** — pack completa para produção: proteções, eventos, configs e conteúdo custom. **Repositório:** [**pack_L2JALN**](https://github.com/ALN2025/pack_L2JALN) · [**Release v1.0.0**](https://github.com/ALN2025/pack_L2JALN/releases/tag/v1.0.0) |
 | **Patch** | Atualizações para **jogadores** (HTML, multisell, dados, etc.) em **`.zip`** — distribuição pelo servidor/site/Discord; mantém a mesma estrutura da pack ao extrair. |
 
 > O **código-fonte** do núcleo L2jALN permanece em **repositório privado**. Aqui no perfil o foco público é a **pack** e o **patch** para clientes e administradores.
+
+---
+
+## 🤝 Contribuição L2JBRASIL — XDAT (meu primeiro trabalho)
+
+<p align="center">
+  <a href="https://github.com/ALN2025/editor-xdat-l2jaln">
+    <img src="https://img.shields.io/badge/L2JBRASIL-Contribuição_aberta-67cb57?style=for-the-badge&logo=github" alt="L2JBRASIL"/>
+  </a>
+  <a href="https://github.com/ALN2025/editor-xdat-l2jaln">
+    <img src="https://img.shields.io/badge/Editor_XDAT-L2JA.LN-181717?style=for-the-badge&logo=java" alt="XDAT"/>
+  </a>
+</p>
+
+| | |
+|---|---|
+| **L2JBRASIL** | Contribuição voltada à comunidade **brasileira** de servidores **Lineage 2 Java** — ferramentas e materiais que a galera usa no dia a dia. |
+| **XDAT** | Editor para **Interface.xdat** em pacote **pronto para usar** (sem precisar compilar o *source*): foi o meu **primeiro trabalho** público nesse formato, pensado para quem só quer abrir e editar. |
+| **Repositório** | [**ALN2025/editor-xdat-l2jaln**](https://github.com/ALN2025/editor-xdat-l2jaln) — pastas `bin` e `lib`, `LEIAME.txt` e o launcher **`Iniciar XDAT Editor L2JA.LN.bat`**. |
+
+> ⚠️ Para rodar no PC: **JDK 8 com JavaFX** (ex.: **Azul ZuluFX 8**). Detalhes no `LEIAME.txt` do repositório.
 
 ---
 
