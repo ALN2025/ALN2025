@@ -38,9 +38,6 @@
 
 ### `~/sysinfo` — sobre
 
-*O resumo já aparece **dentro do banner CMD** (comando `type profile.txt`). Abaixo a mesma informação em texto para **copiar** / leitores de ecrã:*
-
-```text
 HOST..............: Anderson Nascimento
 ROLE..............: Full Stack · Game server · estudante ADS (UCS)
 TAGLINE...........: DEV A.L.N | servidores L2 | performance | custom
