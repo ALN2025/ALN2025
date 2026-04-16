@@ -52,7 +52,7 @@
 
 🖥️ Disco Local (C:)
  └📂 Arquivos de Programas (x86)
-  └📂 Projeto L2Ja.L.N
+  └📂 Projeto L2JALN
    └📂 v1
     └📂 aCis
      ├ 💻 L2J · Java · bash · Git
@@ -131,6 +131,9 @@
 
 <br/>
 
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ff41,35:003020,100:000000&amp;height=128&amp;section=footer&amp;text=%24+clear+%26%26+exit+0&amp;fontSize=26&amp;fontColor=000000&amp;fontAlignY=58"/>
+<!-- Rodapé: texto SEM & nem $ na URL (capsule-render + Camo do GitHub quebram com %26 no parâmetro text) -->
+<img width="100%" alt="Rodapé ALN2025" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ff41,40:002818,100:0d1117&amp;height=115&amp;section=footer&amp;text=logout+%C2%B7+exit+0&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlignY=58"/>
+
+<sub><code>$ clear &amp;&amp; exit 0</code></sub>
 
 </div>
