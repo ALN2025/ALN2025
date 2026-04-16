@@ -7,7 +7,7 @@
   </defs>
   <rect x="0" y="0" width="1040" height="200" fill="#0c0c0c" stroke="#555" stroke-width="2" rx="6"/>
   <rect x="0" y="0" width="1040" height="34" fill="url(#tbl)" rx="6"/>
-  <text x="12" y="23" fill="#ddd" font-family="Segoe UI,Tahoma,sans-serif" font-size="13">L2J-A.L.N  boot Linux · LoginServer</text>
+  <text x="12" y="23" fill="#ddd" font-family="Segoe UI,Tahoma,sans-serif" font-size="13">L2J-A.L.N &#x2014; boot Linux &#x00B7; LoginServer</text>
   <rect x="0" y="34" width="1040" height="166" fill="#0c0c0c"/>
   <text xml:space="preserve" x="14" y="52" fill="#c0c0c0" font-family="Consolas,Courier New,monospace" font-size="9">
     <tspan x="14" dy="0" fill="#ffd700">-----------------------------------------------------------------------=[ L2JALN ]</tspan>
